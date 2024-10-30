@@ -4,17 +4,16 @@
     "abbreviation": "AL",
     "data": {},
     "stats": {},
-    "availableElectoralVotes": 0,
-    "history": [],
-    "candidates": {
-      "independents": {
+    "availableElectoralVotes": 9,
+    "generalElectionCandidates": {
+      "others": {
         "id": 895,
         "name": "Jill Stein",
         "shortName": "J. Stein",
-        "party": "independents",
+        "party": "others",
         "stats": {
           "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
         }
       },
@@ -25,8 +24,216 @@
         "party": "republicans",
         "stats": {
           "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "independents": {
+        "id": 20077008,
+        "name": "Robert Kennedy",
+        "shortName": "R. Kennedy",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      }
+    },
+    "lastUpdated": "2024-10-30T05:28:54.744Z",
+    "houseElectionCandidates": {
+      "others": {
+        "id": 21303,
+        "name": "Write-ins",
+        "shortName": "Write-ins",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "republicans": {
+        "id": 20073840,
+        "name": "Barry Moore",
+        "shortName": "B. Moore",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "democrats": {
+        "id": 20077342,
+        "name": "Tom Holmes",
+        "shortName": "T. Holmes",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    },
+    "senateElectionCandidates": {}
+  },
+  "AK": {
+    "name": "Alaska",
+    "abbreviation": "AK",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 3,
+    "generalElectionCandidates": {
+      "others": {
+        "id": 895,
+        "name": "Jill Stein",
+        "shortName": "J. Stein",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "independents": {
+        "id": 20077008,
+        "name": "Robert Kennedy",
+        "shortName": "R. Kennedy",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      }
+    },
+    "lastUpdated": "2024-10-30T05:28:54.744Z",
+    "houseElectionCandidates": {
+      "others": {
+        "id": 21303,
+        "name": "Write-ins",
+        "shortName": "Write-ins",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "republicans": {
+        "id": 20074507,
+        "name": "Nick Begich",
+        "shortName": "N. Begich",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "democrats": {
+        "id": 20075508,
+        "name": "Mary Peltola",
+        "shortName": "M. Peltola",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    },
+    "senateElectionCandidates": {}
+  },
+  "AZ": {
+    "name": "Arizona",
+    "abbreviation": "AZ",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 11,
+    "generalElectionCandidates": {
+      "others": {
+        "id": 895,
+        "name": "Jill Stein",
+        "shortName": "J. Stein",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      }
+    },
+    "lastUpdated": "2024-10-30T05:28:54.744Z",
+    "houseElectionCandidates": {
+      "republicans": {
+        "id": 5397,
+        "name": "David Schweikert",
+        "shortName": "D. Schweikert",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "democrats": {
+        "id": 20078567,
+        "name": "Amish Shah",
+        "shortName": "A. Shah",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
         }
       },
       "others": {
@@ -36,116 +243,39 @@
         "party": "others",
         "stats": {
           "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "democrats": {
-        "id": 64984,
-        "name": "Kamala Harris",
-        "shortName": "K. Harris",
-        "party": "democrats",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
+          "percent": "0%"
         }
       }
-    }
-  },
-  "AK": {
-    "name": "Alaska",
-    "abbreviation": "AK",
-    "data": {},
-    "stats": {},
-    "availableElectoralVotes": 0,
-    "history": [],
-    "candidates": {
-      "independents": {
-        "id": 895,
-        "name": "Jill Stein",
-        "shortName": "J. Stein",
-        "party": "independents",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "republicans": {
-        "id": 8639,
-        "name": "Donald Trump",
-        "shortName": "D. Trump",
-        "party": "republicans",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
+    },
+    "senateElectionCandidates": {
       "others": {
-        "id": 61513,
-        "name": "Randall Terry",
-        "shortName": "R. Terry",
+        "id": 21303,
+        "name": "Write-ins",
+        "shortName": "Write-ins",
         "party": "others",
         "stats": {
           "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
+          "percent": "0%"
         }
       },
       "democrats": {
-        "id": 64984,
-        "name": "Kamala Harris",
-        "shortName": "K. Harris",
+        "id": 64361,
+        "name": "Ruben Gallego",
+        "shortName": "R. Gallego",
         "party": "democrats",
         "stats": {
           "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      }
-    }
-  },
-  "AZ": {
-    "name": "Arizona",
-    "abbreviation": "AZ",
-    "data": {},
-    "stats": {},
-    "availableElectoralVotes": 0,
-    "history": [],
-    "candidates": {
-      "others": {
-        "id": 895,
-        "name": "Jill Stein",
-        "shortName": "J. Stein",
-        "party": "others",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
+          "percent": "0%"
         }
       },
       "republicans": {
-        "id": 8639,
-        "name": "Donald Trump",
-        "shortName": "D. Trump",
+        "id": 20074237,
+        "name": "Kari Lake",
+        "shortName": "K. Lake",
         "party": "republicans",
         "stats": {
           "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "democrats": {
-        "id": 64984,
-        "name": "Kamala Harris",
-        "shortName": "K. Harris",
-        "party": "democrats",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
+          "percent": "0%"
         }
       }
     }
@@ -155,9 +285,8 @@
     "abbreviation": "AR",
     "data": {},
     "stats": {},
-    "availableElectoralVotes": 0,
-    "history": [],
-    "candidates": {
+    "availableElectoralVotes": 6,
+    "generalElectionCandidates": {
       "others": {
         "id": 895,
         "name": "Jill Stein",
@@ -165,7 +294,7 @@
         "party": "others",
         "stats": {
           "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
         }
       },
@@ -176,7 +305,7 @@
         "party": "republicans",
         "stats": {
           "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
         }
       },
@@ -187,7 +316,7 @@
         "party": "democrats",
         "stats": {
           "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
         }
       },
@@ -198,20 +327,63 @@
         "party": "independents",
         "stats": {
           "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
         }
       }
-    }
+    },
+    "lastUpdated": "2024-10-30T05:28:54.744Z",
+    "houseElectionCandidates": {
+      "republicans": {
+        "id": 60226,
+        "name": "Rick Crawford",
+        "shortName": "R. Crawford",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "democrats": {
+        "id": 20077354,
+        "name": "Rodney Govens",
+        "shortName": "R. Govens",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "others": {
+        "id": 20078672,
+        "name": "Steve Parsons",
+        "shortName": "S. Parsons",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "independents": {
+        "id": 20074764,
+        "name": "John White",
+        "shortName": "J. White",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    },
+    "senateElectionCandidates": {}
   },
   "CA": {
     "name": "California",
     "abbreviation": "CA",
     "data": {},
     "stats": {},
-    "availableElectoralVotes": 0,
-    "history": [],
-    "candidates": {
+    "availableElectoralVotes": 54,
+    "generalElectionCandidates": {
       "others": {
         "id": 895,
         "name": "Jill Stein",
@@ -219,7 +391,7 @@
         "party": "others",
         "stats": {
           "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
         }
       },
@@ -230,7 +402,7 @@
         "party": "republicans",
         "stats": {
           "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
         }
       },
@@ -241,8 +413,74 @@
         "party": "democrats",
         "stats": {
           "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
+        }
+      },
+      "independents": {
+        "id": 20077008,
+        "name": "Robert Kennedy",
+        "shortName": "R. Kennedy",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      }
+    },
+    "lastUpdated": "2024-10-30T05:28:54.745Z",
+    "houseElectionCandidates": {
+      "republicans": {
+        "id": 52531,
+        "name": "Doug LaMalfa",
+        "shortName": "D. LaMalfa",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "democrats": {
+        "id": 20075031,
+        "name": "Rose Yee",
+        "shortName": "R. Yee",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "others": {
+        "id": 19808,
+        "name": "Juan Rey",
+        "shortName": "J. Rey",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    },
+    "senateElectionCandidates": {
+      "democrats": {
+        "id": 1299,
+        "name": "Adam Schiff",
+        "shortName": "A. Schiff",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "republicans": {
+        "id": 20077198,
+        "name": "Steve Garvey",
+        "shortName": "S. Garvey",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
         }
       }
     }
@@ -252,9 +490,8 @@
     "abbreviation": "CO",
     "data": {},
     "stats": {},
-    "availableElectoralVotes": 0,
-    "history": [],
-    "candidates": {
+    "availableElectoralVotes": 10,
+    "generalElectionCandidates": {
       "others": {
         "id": 895,
         "name": "Jill Stein",
@@ -262,7 +499,7 @@
         "party": "others",
         "stats": {
           "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
         }
       },
@@ -273,7 +510,7 @@
         "party": "republicans",
         "stats": {
           "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
         }
       },
@@ -284,50 +521,7 @@
         "party": "democrats",
         "stats": {
           "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      }
-    }
-  },
-  "CT": {
-    "name": "Connecticut",
-    "abbreviation": "CT",
-    "data": {},
-    "stats": {},
-    "availableElectoralVotes": 0,
-    "history": [],
-    "candidates": {
-      "others": {
-        "id": 895,
-        "name": "Jill Stein",
-        "shortName": "J. Stein",
-        "party": "others",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "republicans": {
-        "id": 8639,
-        "name": "Donald Trump",
-        "shortName": "D. Trump",
-        "party": "republicans",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "democrats": {
-        "id": 64984,
-        "name": "Kamala Harris",
-        "shortName": "K. Harris",
-        "party": "democrats",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
         }
       },
@@ -338,8 +532,180 @@
         "party": "independents",
         "stats": {
           "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
+        }
+      }
+    },
+    "lastUpdated": "2024-10-30T05:28:54.745Z",
+    "houseElectionCandidates": {
+      "democrats": {
+        "id": 734,
+        "name": "Diana DeGette",
+        "shortName": "D. DeGette",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "others": {
+        "id": 21303,
+        "name": "Write-ins",
+        "shortName": "Write-ins",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "republicans": {
+        "id": 20078407,
+        "name": "Valdamar Archuleta",
+        "shortName": "V. Archuleta",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    },
+    "senateElectionCandidates": {}
+  },
+  "CT": {
+    "name": "Connecticut",
+    "abbreviation": "CT",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 7,
+    "generalElectionCandidates": {
+      "others": {
+        "id": 895,
+        "name": "Jill Stein",
+        "shortName": "J. Stein",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "independents": {
+        "id": 20077008,
+        "name": "Robert Kennedy",
+        "shortName": "R. Kennedy",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      }
+    },
+    "lastUpdated": "2024-10-30T05:28:54.745Z",
+    "houseElectionCandidates": {
+      "democrats": {
+        "id": 1139,
+        "name": "John Larson",
+        "shortName": "J. Larson",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "republicans": {
+        "id": 20076194,
+        "name": "Jim Griffin",
+        "shortName": "J. Griffin",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "others": {
+        "id": 20076910,
+        "name": "Mary Sanders",
+        "shortName": "M. Sanders",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "independents": {
+        "id": 20078869,
+        "name": "Benjamin Wesley",
+        "shortName": "B. Wesley",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    },
+    "senateElectionCandidates": {
+      "democrats": {
+        "id": 52147,
+        "name": "Chris Murphy",
+        "shortName": "C. Murphy",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "republicans": {
+        "id": 62729,
+        "name": "Matthew Corey",
+        "shortName": "M. Corey",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "others": {
+        "id": 20073995,
+        "name": "Justin Paglino",
+        "shortName": "J. Paglino",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "independents": {
+        "id": 20076184,
+        "name": "Robert Hyde",
+        "shortName": "R. Hyde",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
         }
       }
     }
@@ -349,9 +715,8 @@
     "abbreviation": "DE",
     "data": {},
     "stats": {},
-    "availableElectoralVotes": 0,
-    "history": [],
-    "candidates": {
+    "availableElectoralVotes": 3,
+    "generalElectionCandidates": {
       "others": {
         "id": 1968,
         "name": "Vermin Supreme",
@@ -359,7 +724,7 @@
         "party": "others",
         "stats": {
           "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
         }
       },
@@ -370,7 +735,7 @@
         "party": "republicans",
         "stats": {
           "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
         }
       },
@@ -381,7 +746,7 @@
         "party": "democrats",
         "stats": {
           "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
         }
       },
@@ -392,8 +757,63 @@
         "party": "independents",
         "stats": {
           "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
+        }
+      }
+    },
+    "lastUpdated": "2024-10-30T05:28:54.745Z",
+    "houseElectionCandidates": {
+      "democrats": {
+        "id": 20078441,
+        "name": "Sarah McBride",
+        "shortName": "S. McBride",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "republicans": {
+        "id": 20078882,
+        "name": "John Whalen",
+        "shortName": "J. Whalen",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    },
+    "senateElectionCandidates": {
+      "democrats": {
+        "id": 65591,
+        "name": "Lisa Blunt Rochester",
+        "shortName": "L. Blunt Rochester",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "republicans": {
+        "id": 20078487,
+        "name": "Eric Hansen",
+        "shortName": "E. Hansen",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "independents": {
+        "id": 20078829,
+        "name": "Michael Katz",
+        "shortName": "M. Katz",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
         }
       }
     }
@@ -403,9 +823,8 @@
     "abbreviation": "DC",
     "data": {},
     "stats": {},
-    "availableElectoralVotes": 0,
-    "history": [],
-    "candidates": {
+    "availableElectoralVotes": 3,
+    "generalElectionCandidates": {
       "republicans": {
         "id": 8639,
         "name": "Donald Trump",
@@ -413,7 +832,7 @@
         "party": "republicans",
         "stats": {
           "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
         }
       },
@@ -424,7 +843,7 @@
         "party": "others",
         "stats": {
           "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
         }
       },
@@ -435,7 +854,7 @@
         "party": "democrats",
         "stats": {
           "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
         }
       },
@@ -446,20 +865,22 @@
         "party": "independents",
         "stats": {
           "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
         }
       }
-    }
+    },
+    "lastUpdated": "2024-10-30T05:28:54.745Z",
+    "houseElectionCandidates": {},
+    "senateElectionCandidates": {}
   },
   "FL": {
     "name": "Florida",
     "abbreviation": "FL",
     "data": {},
     "stats": {},
-    "availableElectoralVotes": 0,
-    "history": [],
-    "candidates": {
+    "availableElectoralVotes": 30,
+    "generalElectionCandidates": {
       "others": {
         "id": 895,
         "name": "Jill Stein",
@@ -467,7 +888,7 @@
         "party": "others",
         "stats": {
           "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
         }
       },
@@ -478,7 +899,7 @@
         "party": "republicans",
         "stats": {
           "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
         }
       },
@@ -489,8 +910,73 @@
         "party": "democrats",
         "stats": {
           "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
+        }
+      }
+    },
+    "lastUpdated": "2024-10-30T05:28:54.745Z",
+    "houseElectionCandidates": {
+      "republicans": {
+        "id": 65653,
+        "name": "Matt Gaetz",
+        "shortName": "M. Gaetz",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "democrats": {
+        "id": 20078230,
+        "name": "Gay Valimont",
+        "shortName": "G. Valimont",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "others": {
+        "id": 21303,
+        "name": "Write-ins",
+        "shortName": "Write-ins",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    },
+    "senateElectionCandidates": {
+      "democrats": {
+        "id": 20212,
+        "name": "Debbie Mucarsel-Powell",
+        "shortName": "D. Mucarsel-Powell",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "republicans": {
+        "id": 61149,
+        "name": "Rick Scott",
+        "shortName": "R. Scott",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "others": {
+        "id": 20076834,
+        "name": "Feena Bonoan",
+        "shortName": "F. Bonoan",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
         }
       }
     }
@@ -500,9 +986,8 @@
     "abbreviation": "GA",
     "data": {},
     "stats": {},
-    "availableElectoralVotes": 0,
-    "history": [],
-    "candidates": {
+    "availableElectoralVotes": 16,
+    "generalElectionCandidates": {
       "others": {
         "id": 895,
         "name": "Jill Stein",
@@ -510,7 +995,7 @@
         "party": "others",
         "stats": {
           "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
         }
       },
@@ -521,7 +1006,7 @@
         "party": "republicans",
         "stats": {
           "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
         }
       },
@@ -532,7 +1017,7 @@
         "party": "democrats",
         "stats": {
           "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
         }
       },
@@ -543,20 +1028,53 @@
         "party": "independents",
         "stats": {
           "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
         }
       }
-    }
+    },
+    "lastUpdated": "2024-10-30T05:28:54.745Z",
+    "houseElectionCandidates": {
+      "republicans": {
+        "id": 63354,
+        "name": "Buddy Carter",
+        "shortName": "B. Carter",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "democrats": {
+        "id": 20078247,
+        "name": "Patti Hewitt",
+        "shortName": "P. Hewitt",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "others": {
+        "id": 21303,
+        "name": "Write-ins",
+        "shortName": "Write-ins",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    },
+    "senateElectionCandidates": {}
   },
   "HI": {
     "name": "Hawaii",
     "abbreviation": "HI",
     "data": {},
     "stats": {},
-    "availableElectoralVotes": 0,
-    "history": [],
-    "candidates": {
+    "availableElectoralVotes": 4,
+    "generalElectionCandidates": {
       "others": {
         "id": 895,
         "name": "Jill Stein",
@@ -564,7 +1082,7 @@
         "party": "others",
         "stats": {
           "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
         }
       },
@@ -575,7 +1093,7 @@
         "party": "republicans",
         "stats": {
           "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
         }
       },
@@ -586,8 +1104,73 @@
         "party": "democrats",
         "stats": {
           "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
+        }
+      }
+    },
+    "lastUpdated": "2024-10-30T05:28:54.745Z",
+    "houseElectionCandidates": {
+      "democrats": {
+        "id": 1786,
+        "name": "Ed Case",
+        "shortName": "E. Case",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "republicans": {
+        "id": 20078677,
+        "name": "Patrick Largey",
+        "shortName": "P. Largey",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "others": {
+        "id": 20078679,
+        "name": "Randall Kelly Meyer",
+        "shortName": "R. Meyer",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    },
+    "senateElectionCandidates": {
+      "republicans": {
+        "id": 1591,
+        "name": "Bob McDermott",
+        "shortName": "B. McDermott",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "democrats": {
+        "id": 1594,
+        "name": "Mazie Hirono",
+        "shortName": "M. Hirono",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "others": {
+        "id": 20076836,
+        "name": "Emma Pohlman",
+        "shortName": "E. Pohlman",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
         }
       }
     }
@@ -597,9 +1180,8 @@
     "abbreviation": "ID",
     "data": {},
     "stats": {},
-    "availableElectoralVotes": 0,
-    "history": [],
-    "candidates": {
+    "availableElectoralVotes": 4,
+    "generalElectionCandidates": {
       "others": {
         "id": 895,
         "name": "Jill Stein",
@@ -607,7 +1189,7 @@
         "party": "others",
         "stats": {
           "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
         }
       },
@@ -618,7 +1200,7 @@
         "party": "republicans",
         "stats": {
           "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
         }
       },
@@ -629,7 +1211,7 @@
         "party": "independents",
         "stats": {
           "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
         }
       },
@@ -640,20 +1222,53 @@
         "party": "democrats",
         "stats": {
           "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
         }
       }
-    }
+    },
+    "lastUpdated": "2024-10-30T05:28:54.745Z",
+    "houseElectionCandidates": {
+      "republicans": {
+        "id": 63500,
+        "name": "Russ Fulcher",
+        "shortName": "R. Fulcher",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "democrats": {
+        "id": 20074589,
+        "name": "Kaylee Peterson",
+        "shortName": "K. Peterson",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "others": {
+        "id": 20078681,
+        "name": "Brendan Gomez",
+        "shortName": "B. Gomez",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    },
+    "senateElectionCandidates": {}
   },
   "IL": {
     "name": "Illinois",
     "abbreviation": "IL",
     "data": {},
     "stats": {},
-    "availableElectoralVotes": 0,
-    "history": [],
-    "candidates": {
+    "availableElectoralVotes": 19,
+    "generalElectionCandidates": {
       "republicans": {
         "id": 8639,
         "name": "Donald Trump",
@@ -661,7 +1276,7 @@
         "party": "republicans",
         "stats": {
           "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
         }
       },
@@ -672,7 +1287,7 @@
         "party": "others",
         "stats": {
           "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
         }
       },
@@ -683,20 +1298,53 @@
         "party": "democrats",
         "stats": {
           "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
         }
       }
-    }
+    },
+    "lastUpdated": "2024-10-30T05:28:54.745Z",
+    "houseElectionCandidates": {
+      "republicans": {
+        "id": 62245,
+        "name": "Marcus Lewis",
+        "shortName": "M. Lewis",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "democrats": {
+        "id": 20075635,
+        "name": "Jonathan Jackson",
+        "shortName": "J. Jackson",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "others": {
+        "id": 20076821,
+        "name": "Ed Hershey",
+        "shortName": "E. Hershey",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    },
+    "senateElectionCandidates": {}
   },
   "IN": {
     "name": "Indiana",
     "abbreviation": "IN",
     "data": {},
     "stats": {},
-    "availableElectoralVotes": 0,
-    "history": [],
-    "candidates": {
+    "availableElectoralVotes": 11,
+    "generalElectionCandidates": {
       "republicans": {
         "id": 8639,
         "name": "Donald Trump",
@@ -704,7 +1352,7 @@
         "party": "republicans",
         "stats": {
           "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
         }
       },
@@ -715,7 +1363,7 @@
         "party": "others",
         "stats": {
           "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
         }
       },
@@ -726,104 +1374,7 @@
         "party": "democrats",
         "stats": {
           "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      }
-    }
-  },
-  "IA": {
-    "name": "Iowa",
-    "abbreviation": "IA",
-    "data": {},
-    "stats": {},
-    "availableElectoralVotes": 0,
-    "history": [],
-    "candidates": {
-      "republicans": {
-        "id": 8639,
-        "name": "Donald Trump",
-        "shortName": "D. Trump",
-        "party": "republicans",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "independents": {
-        "id": 21301,
-        "name": "Shiva Ayyadurai",
-        "shortName": "S. Ayyadurai",
-        "party": "independents",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "others": {
-        "id": 21303,
-        "name": "Write-ins",
-        "shortName": "Write-ins",
-        "party": "others",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "democrats": {
-        "id": 64984,
-        "name": "Kamala Harris",
-        "shortName": "K. Harris",
-        "party": "democrats",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      }
-    }
-  },
-  "KS": {
-    "name": "Kansas",
-    "abbreviation": "KS",
-    "data": {},
-    "stats": {},
-    "availableElectoralVotes": 0,
-    "history": [],
-    "candidates": {
-      "republicans": {
-        "id": 8639,
-        "name": "Donald Trump",
-        "shortName": "D. Trump",
-        "party": "republicans",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "others": {
-        "id": 21303,
-        "name": "Write-ins",
-        "shortName": "Write-ins",
-        "party": "others",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "democrats": {
-        "id": 64984,
-        "name": "Kamala Harris",
-        "shortName": "K. Harris",
-        "party": "democrats",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
         }
       },
@@ -834,31 +1385,94 @@
         "party": "independents",
         "stats": {
           "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
+        }
+      }
+    },
+    "lastUpdated": "2024-10-30T05:28:54.745Z",
+    "houseElectionCandidates": {
+      "democrats": {
+        "id": 20073680,
+        "name": "Frank Mrvan",
+        "shortName": "F. Mrvan",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "republicans": {
+        "id": 20078000,
+        "name": "Randy Niemeyer",
+        "shortName": "R. Niemeyer",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "others": {
+        "id": 20078731,
+        "name": "Dakotah Miskus",
+        "shortName": "D. Miskus",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "independents": {
+        "id": 20078751,
+        "name": "Robby Slaughter",
+        "shortName": "R. Slaughter",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    },
+    "senateElectionCandidates": {
+      "others": {
+        "id": 1630,
+        "name": "Andrew Horning",
+        "shortName": "A. Horning",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "republicans": {
+        "id": 64756,
+        "name": "Jim Banks",
+        "shortName": "J. Banks",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "democrats": {
+        "id": 20076939,
+        "name": "Valerie McCray",
+        "shortName": "V. McCray",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
         }
       }
     }
   },
-  "KY": {
-    "name": "Kentucky",
-    "abbreviation": "KY",
+  "IA": {
+    "name": "Iowa",
+    "abbreviation": "IA",
     "data": {},
     "stats": {},
-    "availableElectoralVotes": 0,
-    "history": [],
-    "candidates": {
-      "others": {
-        "id": 895,
-        "name": "Jill Stein",
-        "shortName": "J. Stein",
-        "party": "others",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
+    "availableElectoralVotes": 6,
+    "generalElectionCandidates": {
       "republicans": {
         "id": 8639,
         "name": "Donald Trump",
@@ -866,7 +1480,7 @@
         "party": "republicans",
         "stats": {
           "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
         }
       },
@@ -877,492 +1491,7 @@
         "party": "independents",
         "stats": {
           "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "democrats": {
-        "id": 64984,
-        "name": "Kamala Harris",
-        "shortName": "K. Harris",
-        "party": "democrats",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      }
-    }
-  },
-  "LA": {
-    "name": "Louisiana",
-    "abbreviation": "LA",
-    "data": {},
-    "stats": {},
-    "availableElectoralVotes": 0,
-    "history": [],
-    "candidates": {
-      "others": {
-        "id": 895,
-        "name": "Jill Stein",
-        "shortName": "J. Stein",
-        "party": "others",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "republicans": {
-        "id": 8639,
-        "name": "Donald Trump",
-        "shortName": "D. Trump",
-        "party": "republicans",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "democrats": {
-        "id": 64984,
-        "name": "Kamala Harris",
-        "shortName": "K. Harris",
-        "party": "democrats",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      }
-    }
-  },
-  "ME": {
-    "name": "Maine",
-    "abbreviation": "ME",
-    "data": {},
-    "stats": {},
-    "availableElectoralVotes": 0,
-    "history": [],
-    "candidates": {
-      "others": {
-        "id": 895,
-        "name": "Jill Stein",
-        "shortName": "J. Stein",
-        "party": "others",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "republicans": {
-        "id": 8639,
-        "name": "Donald Trump",
-        "shortName": "D. Trump",
-        "party": "republicans",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "democrats": {
-        "id": 64984,
-        "name": "Kamala Harris",
-        "shortName": "K. Harris",
-        "party": "democrats",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "independents": {
-        "id": 20078274,
-        "name": "Cornel West",
-        "shortName": "C. West",
-        "party": "independents",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      }
-    }
-  },
-  "MD": {
-    "name": "Maryland",
-    "abbreviation": "MD",
-    "data": {},
-    "stats": {},
-    "availableElectoralVotes": 0,
-    "history": [],
-    "candidates": {
-      "others": {
-        "id": 895,
-        "name": "Jill Stein",
-        "shortName": "J. Stein",
-        "party": "others",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "republicans": {
-        "id": 8639,
-        "name": "Donald Trump",
-        "shortName": "D. Trump",
-        "party": "republicans",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "democrats": {
-        "id": 64984,
-        "name": "Kamala Harris",
-        "shortName": "K. Harris",
-        "party": "democrats",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      }
-    }
-  },
-  "MA": {
-    "name": "Massachusetts",
-    "abbreviation": "MA",
-    "data": {},
-    "stats": {},
-    "availableElectoralVotes": 0,
-    "history": [],
-    "candidates": {
-      "others": {
-        "id": 895,
-        "name": "Jill Stein",
-        "shortName": "J. Stein",
-        "party": "others",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "republicans": {
-        "id": 8639,
-        "name": "Donald Trump",
-        "shortName": "D. Trump",
-        "party": "republicans",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "independents": {
-        "id": 21301,
-        "name": "Shiva Ayyadurai",
-        "shortName": "S. Ayyadurai",
-        "party": "independents",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "democrats": {
-        "id": 64984,
-        "name": "Kamala Harris",
-        "shortName": "K. Harris",
-        "party": "democrats",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      }
-    }
-  },
-  "MI": {
-    "name": "Michigan",
-    "abbreviation": "MI",
-    "data": {},
-    "stats": {},
-    "availableElectoralVotes": 0,
-    "history": [],
-    "candidates": {
-      "others": {
-        "id": 895,
-        "name": "Jill Stein",
-        "shortName": "J. Stein",
-        "party": "others",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "republicans": {
-        "id": 8639,
-        "name": "Donald Trump",
-        "shortName": "D. Trump",
-        "party": "republicans",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "democrats": {
-        "id": 64984,
-        "name": "Kamala Harris",
-        "shortName": "K. Harris",
-        "party": "democrats",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "independents": {
-        "id": 20073953,
-        "name": "Joseph Kishore",
-        "shortName": "J. Kishore",
-        "party": "independents",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      }
-    }
-  },
-  "MN": {
-    "name": "Minnesota",
-    "abbreviation": "MN",
-    "data": {},
-    "stats": {},
-    "availableElectoralVotes": 0,
-    "history": [],
-    "candidates": {
-      "others": {
-        "id": 895,
-        "name": "Jill Stein",
-        "shortName": "J. Stein",
-        "party": "others",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "republicans": {
-        "id": 8639,
-        "name": "Donald Trump",
-        "shortName": "D. Trump",
-        "party": "republicans",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "independents": {
-        "id": 21301,
-        "name": "Shiva Ayyadurai",
-        "shortName": "S. Ayyadurai",
-        "party": "independents",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "democrats": {
-        "id": 64984,
-        "name": "Kamala Harris",
-        "shortName": "K. Harris",
-        "party": "democrats",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      }
-    }
-  },
-  "MS": {
-    "name": "Mississippi",
-    "abbreviation": "MS",
-    "data": {},
-    "stats": {},
-    "availableElectoralVotes": 0,
-    "history": [],
-    "candidates": {
-      "others": {
-        "id": 895,
-        "name": "Jill Stein",
-        "shortName": "J. Stein",
-        "party": "others",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "republicans": {
-        "id": 8639,
-        "name": "Donald Trump",
-        "shortName": "D. Trump",
-        "party": "republicans",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "independents": {
-        "id": 21301,
-        "name": "Shiva Ayyadurai",
-        "shortName": "S. Ayyadurai",
-        "party": "independents",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "democrats": {
-        "id": 64984,
-        "name": "Kamala Harris",
-        "shortName": "K. Harris",
-        "party": "democrats",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      }
-    }
-  },
-  "MO": {
-    "name": "Missouri",
-    "abbreviation": "MO",
-    "data": {},
-    "stats": {},
-    "availableElectoralVotes": 0,
-    "history": [],
-    "candidates": {
-      "others": {
-        "id": 895,
-        "name": "Jill Stein",
-        "shortName": "J. Stein",
-        "party": "others",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "republicans": {
-        "id": 8639,
-        "name": "Donald Trump",
-        "shortName": "D. Trump",
-        "party": "republicans",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "democrats": {
-        "id": 64984,
-        "name": "Kamala Harris",
-        "shortName": "K. Harris",
-        "party": "democrats",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      }
-    }
-  },
-  "MT": {
-    "name": "Montana",
-    "abbreviation": "MT",
-    "data": {},
-    "stats": {},
-    "availableElectoralVotes": 0,
-    "history": [],
-    "candidates": {
-      "others": {
-        "id": 895,
-        "name": "Jill Stein",
-        "shortName": "J. Stein",
-        "party": "others",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "republicans": {
-        "id": 8639,
-        "name": "Donald Trump",
-        "shortName": "D. Trump",
-        "party": "republicans",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "democrats": {
-        "id": 64984,
-        "name": "Kamala Harris",
-        "shortName": "K. Harris",
-        "party": "democrats",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      }
-    }
-  },
-  "NE": {
-    "name": "Nebraska",
-    "abbreviation": "NE",
-    "data": {},
-    "stats": {},
-    "availableElectoralVotes": 0,
-    "history": [],
-    "candidates": {
-      "independents": {
-        "id": 895,
-        "name": "Jill Stein",
-        "shortName": "J. Stein",
-        "party": "independents",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "republicans": {
-        "id": 8639,
-        "name": "Donald Trump",
-        "shortName": "D. Trump",
-        "party": "republicans",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
         }
       },
@@ -1373,7 +1502,7 @@
         "party": "others",
         "stats": {
           "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
         }
       },
@@ -1384,8 +1513,1344 @@
         "party": "democrats",
         "stats": {
           "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
+        }
+      }
+    },
+    "lastUpdated": "2024-10-30T05:28:54.745Z",
+    "houseElectionCandidates": {
+      "republicans": {
+        "id": 59745,
+        "name": "Mariannette Miller-Meeks",
+        "shortName": "M. Miller-Meeks",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "democrats": {
+        "id": 20075305,
+        "name": "Christina Bohannan",
+        "shortName": "C. Bohannan",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "independents": {
+        "id": 20078527,
+        "name": "Jody Puffett",
+        "shortName": "J. Puffett",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    },
+    "senateElectionCandidates": {}
+  },
+  "KS": {
+    "name": "Kansas",
+    "abbreviation": "KS",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 6,
+    "generalElectionCandidates": {
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "others": {
+        "id": 21303,
+        "name": "Write-ins",
+        "shortName": "Write-ins",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "independents": {
+        "id": 20077008,
+        "name": "Robert Kennedy",
+        "shortName": "R. Kennedy",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      }
+    },
+    "lastUpdated": "2024-10-30T05:28:54.745Z",
+    "houseElectionCandidates": {
+      "republicans": {
+        "id": 20073168,
+        "name": "Tracey Mann",
+        "shortName": "T. Mann",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "democrats": {
+        "id": 20075997,
+        "name": "Paul Buskirk",
+        "shortName": "P. Buskirk",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "others": {
+        "id": 20078689,
+        "name": "John Hauer",
+        "shortName": "J. Hauer",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    },
+    "senateElectionCandidates": {}
+  },
+  "KY": {
+    "name": "Kentucky",
+    "abbreviation": "KY",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 8,
+    "generalElectionCandidates": {
+      "others": {
+        "id": 895,
+        "name": "Jill Stein",
+        "shortName": "J. Stein",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "independents": {
+        "id": 21301,
+        "name": "Shiva Ayyadurai",
+        "shortName": "S. Ayyadurai",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      }
+    },
+    "lastUpdated": "2024-10-30T05:28:54.745Z",
+    "houseElectionCandidates": {
+      "republicans": {
+        "id": 54203,
+        "name": "James Comer",
+        "shortName": "J. Comer",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "democrats": {
+        "id": 20077669,
+        "name": "Erin Marshall",
+        "shortName": "E. Marshall",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    },
+    "senateElectionCandidates": {}
+  },
+  "LA": {
+    "name": "Louisiana",
+    "abbreviation": "LA",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 8,
+    "generalElectionCandidates": {
+      "others": {
+        "id": 895,
+        "name": "Jill Stein",
+        "shortName": "J. Stein",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "independents": {
+        "id": 20077008,
+        "name": "Robert Kennedy",
+        "shortName": "R. Kennedy",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      }
+    },
+    "lastUpdated": "2024-10-30T05:28:54.745Z",
+    "houseElectionCandidates": {
+      "republicans": {
+        "id": 54369,
+        "name": "Steve Scalise",
+        "shortName": "S. Scalise",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "democrats": {
+        "id": 20078736,
+        "name": "Mel Manuel",
+        "shortName": "M. Manuel",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "others": {
+        "id": 20078740,
+        "name": "Frankie Hyers",
+        "shortName": "F. Hyers",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    },
+    "senateElectionCandidates": {}
+  },
+  "ME": {
+    "name": "Maine",
+    "abbreviation": "ME",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 4,
+    "generalElectionCandidates": {
+      "others": {
+        "id": 895,
+        "name": "Jill Stein",
+        "shortName": "J. Stein",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "independents": {
+        "id": 20078274,
+        "name": "Cornel West",
+        "shortName": "C. West",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      }
+    },
+    "lastUpdated": "2024-10-30T05:28:54.745Z",
+    "houseElectionCandidates": {
+      "democrats": {
+        "id": 644,
+        "name": "Chellie Pingree",
+        "shortName": "C. Pingree",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "independents": {
+        "id": 20078523,
+        "name": "Ethan Alcorn",
+        "shortName": "E. Alcorn",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "republicans": {
+        "id": 20078555,
+        "name": "Ronald Russell",
+        "shortName": "R. Russell",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "others": {
+        "id": 20078901,
+        "name": "Diana Merenda",
+        "shortName": "D. Merenda",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    },
+    "senateElectionCandidates": {
+      "independents": {
+        "id": 62418,
+        "name": "Angus King",
+        "shortName": "A. King",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "democrats": {
+        "id": 20076940,
+        "name": "David Costello",
+        "shortName": "D. Costello",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "republicans": {
+        "id": 20078525,
+        "name": "Demi Kouzounas",
+        "shortName": "D. Kouzounas",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    }
+  },
+  "MD": {
+    "name": "Maryland",
+    "abbreviation": "MD",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 10,
+    "generalElectionCandidates": {
+      "others": {
+        "id": 895,
+        "name": "Jill Stein",
+        "shortName": "J. Stein",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "independents": {
+        "id": 20077008,
+        "name": "Robert Kennedy",
+        "shortName": "R. Kennedy",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      }
+    },
+    "lastUpdated": "2024-10-30T05:28:54.745Z",
+    "houseElectionCandidates": {
+      "republicans": {
+        "id": 58831,
+        "name": "Andy Harris",
+        "shortName": "A. Harris",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "democrats": {
+        "id": 20077930,
+        "name": "Blane Miller",
+        "shortName": "B. Miller",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "others": {
+        "id": 20078877,
+        "name": "Joshua O'Brien",
+        "shortName": "J. O'Brien",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    },
+    "senateElectionCandidates": {
+      "republicans": {
+        "id": 63859,
+        "name": "Larry Hogan",
+        "shortName": "L. Hogan",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "democrats": {
+        "id": 20077003,
+        "name": "Angela Alsobrooks",
+        "shortName": "A. Alsobrooks",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "others": {
+        "id": 20078759,
+        "name": "Mike Scott",
+        "shortName": "M. Scott",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    }
+  },
+  "MA": {
+    "name": "Massachusetts",
+    "abbreviation": "MA",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 11,
+    "generalElectionCandidates": {
+      "others": {
+        "id": 895,
+        "name": "Jill Stein",
+        "shortName": "J. Stein",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "independents": {
+        "id": 21301,
+        "name": "Shiva Ayyadurai",
+        "shortName": "S. Ayyadurai",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      }
+    },
+    "lastUpdated": "2024-10-30T05:28:54.745Z",
+    "houseElectionCandidates": {
+      "democrats": {
+        "id": 882,
+        "name": "Richard Neal",
+        "shortName": "R. Neal",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "others": {
+        "id": 21303,
+        "name": "Write-ins",
+        "shortName": "Write-ins",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "independents": {
+        "id": 20078562,
+        "name": "Nadi Milleron",
+        "shortName": "N. Milleron",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "republicans": {
+        "id": 20076933,
+        "name": "Rob Burke",
+        "shortName": "R. Burke",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    },
+    "senateElectionCandidates": {
+      "democrats": {
+        "id": 62244,
+        "name": "Elizabeth Warren",
+        "shortName": "E. Warren",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "republicans": {
+        "id": 20078870,
+        "name": "John Deaton",
+        "shortName": "J. Deaton",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    }
+  },
+  "MI": {
+    "name": "Michigan",
+    "abbreviation": "MI",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 15,
+    "generalElectionCandidates": {
+      "others": {
+        "id": 895,
+        "name": "Jill Stein",
+        "shortName": "J. Stein",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "independents": {
+        "id": 20077008,
+        "name": "Robert Kennedy",
+        "shortName": "R. Kennedy",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      }
+    },
+    "lastUpdated": "2024-10-30T05:28:54.745Z",
+    "houseElectionCandidates": {
+      "republicans": {
+        "id": 65336,
+        "name": "Jack Bergman",
+        "shortName": "J. Bergman",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "others": {
+        "id": 20076629,
+        "name": "Andrew Gale",
+        "shortName": "A. Gale",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "democrats": {
+        "id": 20078584,
+        "name": "Callie Barr",
+        "shortName": "C. Barr",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    },
+    "senateElectionCandidates": {
+      "others": {
+        "id": 771,
+        "name": "Doug Dern",
+        "shortName": "D. Dern",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "democrats": {
+        "id": 20277,
+        "name": "Elissa Slotkin",
+        "shortName": "E. Slotkin",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "republicans": {
+        "id": 20077955,
+        "name": "Mike Rogers",
+        "shortName": "M. Rogers",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    }
+  },
+  "MN": {
+    "name": "Minnesota",
+    "abbreviation": "MN",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 10,
+    "generalElectionCandidates": {
+      "others": {
+        "id": 895,
+        "name": "Jill Stein",
+        "shortName": "J. Stein",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "independents": {
+        "id": 21301,
+        "name": "Shiva Ayyadurai",
+        "shortName": "S. Ayyadurai",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      }
+    },
+    "lastUpdated": "2024-10-30T05:28:54.745Z",
+    "houseElectionCandidates": {
+      "republicans": {
+        "id": 20075736,
+        "name": "Brad Finstad",
+        "shortName": "B. Finstad",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "democrats": {
+        "id": 20078640,
+        "name": "Rachel Bohman",
+        "shortName": "R. Bohman",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "independents": {
+        "id": 20078834,
+        "name": "Thomas Bowman",
+        "shortName": "T. Bowman",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    },
+    "senateElectionCandidates": {
+      "democrats": {
+        "id": 51526,
+        "name": "Amy Klobuchar",
+        "shortName": "A. Klobuchar",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "independents": {
+        "id": 20076204,
+        "name": "Joyce Lacey",
+        "shortName": "J. Lacey",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "republicans": {
+        "id": 20076220,
+        "name": "Royce White",
+        "shortName": "R. White",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "others": {
+        "id": 20078857,
+        "name": "Rebecca Whiting",
+        "shortName": "R. Whiting",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    }
+  },
+  "MS": {
+    "name": "Mississippi",
+    "abbreviation": "MS",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 6,
+    "generalElectionCandidates": {
+      "others": {
+        "id": 895,
+        "name": "Jill Stein",
+        "shortName": "J. Stein",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "independents": {
+        "id": 21301,
+        "name": "Shiva Ayyadurai",
+        "shortName": "S. Ayyadurai",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      }
+    },
+    "lastUpdated": "2024-10-30T05:28:54.745Z",
+    "houseElectionCandidates": {
+      "others": {
+        "id": 21303,
+        "name": "Write-ins",
+        "shortName": "Write-ins",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "republicans": {
+        "id": 64498,
+        "name": "Trent Kelly",
+        "shortName": "T. Kelly",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "democrats": {
+        "id": 20076142,
+        "name": "Dianne Black",
+        "shortName": "D. Black",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    },
+    "senateElectionCandidates": {
+      "republicans": {
+        "id": 675,
+        "name": "Roger Wicker",
+        "shortName": "R. Wicker",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "democrats": {
+        "id": 20076942,
+        "name": "Ty Pinkins",
+        "shortName": "T. Pinkins",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    }
+  },
+  "MO": {
+    "name": "Missouri",
+    "abbreviation": "MO",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 10,
+    "generalElectionCandidates": {
+      "others": {
+        "id": 895,
+        "name": "Jill Stein",
+        "shortName": "J. Stein",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      }
+    },
+    "lastUpdated": "2024-10-30T05:28:54.745Z",
+    "houseElectionCandidates": {
+      "others": {
+        "id": 1823,
+        "name": "Blake Ashby",
+        "shortName": "B. Ashby",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "republicans": {
+        "id": 20076098,
+        "name": "Andrew Jones",
+        "shortName": "A. Jones",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "democrats": {
+        "id": 20078752,
+        "name": "Wesley Bell",
+        "shortName": "W. Bell",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    },
+    "senateElectionCandidates": {
+      "republicans": {
+        "id": 19270,
+        "name": "Josh Hawley",
+        "shortName": "J. Hawley",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "democrats": {
+        "id": 20076073,
+        "name": "Lucas Kunce",
+        "shortName": "L. Kunce",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "others": {
+        "id": 20076824,
+        "name": "Nathan Kline",
+        "shortName": "N. Kline",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    }
+  },
+  "MT": {
+    "name": "Montana",
+    "abbreviation": "MT",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 4,
+    "generalElectionCandidates": {
+      "others": {
+        "id": 895,
+        "name": "Jill Stein",
+        "shortName": "J. Stein",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "independents": {
+        "id": 20077008,
+        "name": "Robert Kennedy",
+        "shortName": "R. Kennedy",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      }
+    },
+    "lastUpdated": "2024-10-30T05:28:54.745Z",
+    "houseElectionCandidates": {
+      "others": {
+        "id": 21303,
+        "name": "Write-ins",
+        "shortName": "Write-ins",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "republicans": {
+        "id": 63730,
+        "name": "Ryan Zinke",
+        "shortName": "R. Zinke",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "democrats": {
+        "id": 20075312,
+        "name": "Monica Tranel",
+        "shortName": "M. Tranel",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    },
+    "senateElectionCandidates": {
+      "democrats": {
+        "id": 55866,
+        "name": "Jon Tester",
+        "shortName": "J. Tester",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "others": {
+        "id": 20073742,
+        "name": "Robert Barb",
+        "shortName": "R. Barb",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "republicans": {
+        "id": 20078333,
+        "name": "Tim Sheehy",
+        "shortName": "T. Sheehy",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    }
+  },
+  "NE": {
+    "name": "Nebraska",
+    "abbreviation": "NE",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 5,
+    "generalElectionCandidates": {
+      "others": {
+        "id": 895,
+        "name": "Jill Stein",
+        "shortName": "J. Stein",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "independents": {
+        "id": 20078274,
+        "name": "Cornel West",
+        "shortName": "C. West",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      }
+    },
+    "lastUpdated": "2024-10-30T05:28:54.745Z",
+    "houseElectionCandidates": {
+      "democrats": {
+        "id": 20074738,
+        "name": "Carol Blood",
+        "shortName": "C. Blood",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "republicans": {
+        "id": 20074752,
+        "name": "Mike Flood",
+        "shortName": "M. Flood",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    },
+    "senateElectionCandidates": {
+      "republicans": {
+        "id": 51566,
+        "name": "Pete Ricketts",
+        "shortName": "P. Ricketts",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "democrats": {
+        "id": 20078195,
+        "name": "Preston Love",
+        "shortName": "P. Love",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "independents": {
+        "id": 20078425,
+        "name": "Dan Osborn",
+        "shortName": "D. Osborn",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
         }
       }
     }
@@ -1395,9 +2860,8 @@
     "abbreviation": "NV",
     "data": {},
     "stats": {},
-    "availableElectoralVotes": 0,
-    "history": [],
-    "candidates": {
+    "availableElectoralVotes": 6,
+    "generalElectionCandidates": {
       "republicans": {
         "id": 8639,
         "name": "Donald Trump",
@@ -1405,7 +2869,7 @@
         "party": "republicans",
         "stats": {
           "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
         }
       },
@@ -1416,7 +2880,7 @@
         "party": "democrats",
         "stats": {
           "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
         }
       },
@@ -1427,19 +2891,93 @@
         "party": "others",
         "stats": {
           "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
+        }
+      }
+    },
+    "lastUpdated": "2024-10-30T05:28:54.745Z",
+    "houseElectionCandidates": {
+      "democrats": {
+        "id": 30878,
+        "name": "Dina Titus",
+        "shortName": "D. Titus",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "others": {
+        "id": 64034,
+        "name": "David Goossen",
+        "shortName": "D. Goossen",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "republicans": {
+        "id": 20075414,
+        "name": "Mark Robertson",
+        "shortName": "M. Robertson",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
         }
       },
       "independents": {
-        "id": 20078491,
-        "name": "Joel Skousen",
-        "shortName": "J. Skousen",
+        "id": 20076777,
+        "name": "William Hoge",
+        "shortName": "W. Hoge",
         "party": "independents",
         "stats": {
           "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
+          "percent": "0%"
+        }
+      }
+    },
+    "senateElectionCandidates": {
+      "democrats": {
+        "id": 65163,
+        "name": "Jacky Rosen",
+        "shortName": "J. Rosen",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "others": {
+        "id": 100013,
+        "name": "None of these candidate",
+        "shortName": "None of these candidate",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "republicans": {
+        "id": 20075437,
+        "name": "Sam Brown",
+        "shortName": "S. Brown",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "independents": {
+        "id": 20076781,
+        "name": "Janine Hansen",
+        "shortName": "J. Hansen",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
         }
       }
     }
@@ -1449,9 +2987,8 @@
     "abbreviation": "NH",
     "data": {},
     "stats": {},
-    "availableElectoralVotes": 0,
-    "history": [],
-    "candidates": {
+    "availableElectoralVotes": 4,
+    "generalElectionCandidates": {
       "others": {
         "id": 895,
         "name": "Jill Stein",
@@ -1459,7 +2996,7 @@
         "party": "others",
         "stats": {
           "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
         }
       },
@@ -1470,7 +3007,7 @@
         "party": "republicans",
         "stats": {
           "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
         }
       },
@@ -1481,20 +3018,53 @@
         "party": "democrats",
         "stats": {
           "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
         }
       }
-    }
+    },
+    "lastUpdated": "2024-10-30T05:28:54.745Z",
+    "houseElectionCandidates": {
+      "democrats": {
+        "id": 20314,
+        "name": "Chris Pappas",
+        "shortName": "C. Pappas",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "others": {
+        "id": 21303,
+        "name": "Write-ins",
+        "shortName": "Write-ins",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "republicans": {
+        "id": 20076678,
+        "name": "Russell Prescott",
+        "shortName": "R. Prescott",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    },
+    "senateElectionCandidates": {}
   },
   "NJ": {
     "name": "New Jersey",
     "abbreviation": "NJ",
     "data": {},
     "stats": {},
-    "availableElectoralVotes": 0,
-    "history": [],
-    "candidates": {
+    "availableElectoralVotes": 14,
+    "generalElectionCandidates": {
       "others": {
         "id": 895,
         "name": "Jill Stein",
@@ -1502,7 +3072,7 @@
         "party": "others",
         "stats": {
           "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
         }
       },
@@ -1513,7 +3083,7 @@
         "party": "republicans",
         "stats": {
           "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
         }
       },
@@ -1524,7 +3094,7 @@
         "party": "democrats",
         "stats": {
           "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
         }
       },
@@ -1535,8 +3105,93 @@
         "party": "independents",
         "stats": {
           "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
+        }
+      }
+    },
+    "lastUpdated": "2024-10-30T05:28:54.745Z",
+    "houseElectionCandidates": {
+      "others": {
+        "id": 21303,
+        "name": "Write-ins",
+        "shortName": "Write-ins",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "democrats": {
+        "id": 63457,
+        "name": "Donald Norcross",
+        "shortName": "D. Norcross",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "republicans": {
+        "id": 20078311,
+        "name": "Teddy Liddell",
+        "shortName": "T. Liddell",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "independents": {
+        "id": 20078533,
+        "name": "Austin Johnson",
+        "shortName": "A. Johnson",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    },
+    "senateElectionCandidates": {
+      "others": {
+        "id": 60050,
+        "name": "Kenneth Kaplan",
+        "shortName": "K. Kaplan",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "democrats": {
+        "id": 70001,
+        "name": "Andy Kim",
+        "shortName": "A. Kim",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "republicans": {
+        "id": 20078290,
+        "name": "Curtis Bashaw",
+        "shortName": "C. Bashaw",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "independents": {
+        "id": 20078294,
+        "name": "Patricia Mooneyham",
+        "shortName": "P. Mooneyham",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
         }
       }
     }
@@ -1546,9 +3201,8 @@
     "abbreviation": "NM",
     "data": {},
     "stats": {},
-    "availableElectoralVotes": 0,
-    "history": [],
-    "candidates": {
+    "availableElectoralVotes": 5,
+    "generalElectionCandidates": {
       "others": {
         "id": 895,
         "name": "Jill Stein",
@@ -1556,7 +3210,7 @@
         "party": "others",
         "stats": {
           "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
         }
       },
@@ -1567,7 +3221,7 @@
         "party": "republicans",
         "stats": {
           "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
         }
       },
@@ -1578,7 +3232,7 @@
         "party": "democrats",
         "stats": {
           "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
         }
       },
@@ -1589,8 +3243,53 @@
         "party": "independents",
         "stats": {
           "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
+        }
+      }
+    },
+    "lastUpdated": "2024-10-30T05:28:54.745Z",
+    "houseElectionCandidates": {
+      "democrats": {
+        "id": 20074161,
+        "name": "Melanie Stansbury",
+        "shortName": "M. Stansbury",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "republicans": {
+        "id": 20077991,
+        "name": "Steve Jones",
+        "shortName": "S. Jones",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    },
+    "senateElectionCandidates": {
+      "democrats": {
+        "id": 59492,
+        "name": "Martin Heinrich",
+        "shortName": "M. Heinrich",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "republicans": {
+        "id": 20077989,
+        "name": "Nella Domenici",
+        "shortName": "N. Domenici",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
         }
       }
     }
@@ -1600,9 +3299,8 @@
     "abbreviation": "NY",
     "data": {},
     "stats": {},
-    "availableElectoralVotes": 0,
-    "history": [],
-    "candidates": {
+    "availableElectoralVotes": 28,
+    "generalElectionCandidates": {
       "republicans": {
         "id": 8639,
         "name": "Donald Trump",
@@ -1610,7 +3308,7 @@
         "party": "republicans",
         "stats": {
           "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
         }
       },
@@ -1621,7 +3319,7 @@
         "party": "others",
         "stats": {
           "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
         }
       },
@@ -1632,8 +3330,83 @@
         "party": "democrats",
         "stats": {
           "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
+        }
+      }
+    },
+    "lastUpdated": "2024-10-30T05:28:54.745Z",
+    "houseElectionCandidates": {
+      "republicans": {
+        "id": 20075747,
+        "name": "Nicholas LaLota",
+        "shortName": "N. LaLota",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "democrats": {
+        "id": 20078427,
+        "name": "John Avlon",
+        "shortName": "J. Avlon",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "others": {
+        "id": 20078770,
+        "name": "Paul Briscoe",
+        "shortName": "P. Briscoe",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "independents": {
+        "id": 20078772,
+        "name": "Jose Vega",
+        "shortName": "J. Vega",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    },
+    "senateElectionCandidates": {
+      "democrats": {
+        "id": 51916,
+        "name": "Kirsten Gillibrand",
+        "shortName": "K. Gillibrand",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "independents": {
+        "id": 62038,
+        "name": "Diane Sare",
+        "shortName": "D. Sare",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "republicans": {
+        "id": 20077489,
+        "name": "Mike Sapraicone",
+        "shortName": "M. Sapraicone",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
         }
       }
     }
@@ -1643,9 +3416,8 @@
     "abbreviation": "NC",
     "data": {},
     "stats": {},
-    "availableElectoralVotes": 0,
-    "history": [],
-    "candidates": {
+    "availableElectoralVotes": 16,
+    "generalElectionCandidates": {
       "others": {
         "id": 895,
         "name": "Jill Stein",
@@ -1653,7 +3425,7 @@
         "party": "others",
         "stats": {
           "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
         }
       },
@@ -1664,7 +3436,7 @@
         "party": "republicans",
         "stats": {
           "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
         }
       },
@@ -1675,621 +3447,7 @@
         "party": "democrats",
         "stats": {
           "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      }
-    }
-  },
-  "ND": {
-    "name": "North Dakota",
-    "abbreviation": "ND",
-    "data": {},
-    "stats": {},
-    "availableElectoralVotes": 0,
-    "history": [],
-    "candidates": {
-      "republicans": {
-        "id": 8639,
-        "name": "Donald Trump",
-        "shortName": "D. Trump",
-        "party": "republicans",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "others": {
-        "id": 21303,
-        "name": "Write-ins",
-        "shortName": "Write-ins",
-        "party": "others",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "democrats": {
-        "id": 64984,
-        "name": "Kamala Harris",
-        "shortName": "K. Harris",
-        "party": "democrats",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      }
-    }
-  },
-  "OH": {
-    "name": "Ohio",
-    "abbreviation": "OH",
-    "data": {},
-    "stats": {},
-    "availableElectoralVotes": 0,
-    "history": [],
-    "candidates": {
-      "others": {
-        "id": 895,
-        "name": "Jill Stein",
-        "shortName": "J. Stein",
-        "party": "others",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "republicans": {
-        "id": 8639,
-        "name": "Donald Trump",
-        "shortName": "D. Trump",
-        "party": "republicans",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "independents": {
-        "id": 21126,
-        "name": "Richard Duncan",
-        "shortName": "R. Duncan",
-        "party": "independents",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "democrats": {
-        "id": 64984,
-        "name": "Kamala Harris",
-        "shortName": "K. Harris",
-        "party": "democrats",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      }
-    }
-  },
-  "OK": {
-    "name": "Oklahoma",
-    "abbreviation": "OK",
-    "data": {},
-    "stats": {},
-    "availableElectoralVotes": 0,
-    "history": [],
-    "candidates": {
-      "republicans": {
-        "id": 8639,
-        "name": "Donald Trump",
-        "shortName": "D. Trump",
-        "party": "republicans",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "democrats": {
-        "id": 64984,
-        "name": "Kamala Harris",
-        "shortName": "K. Harris",
-        "party": "democrats",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "others": {
-        "id": 20076636,
-        "name": "Chase Oliver",
-        "shortName": "C. Oliver",
-        "party": "others",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "independents": {
-        "id": 20077008,
-        "name": "Robert Kennedy",
-        "shortName": "R. Kennedy",
-        "party": "independents",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      }
-    }
-  },
-  "OR": {
-    "name": "Oregon",
-    "abbreviation": "OR",
-    "data": {},
-    "stats": {},
-    "availableElectoralVotes": 0,
-    "history": [],
-    "candidates": {
-      "others": {
-        "id": 895,
-        "name": "Jill Stein",
-        "shortName": "J. Stein",
-        "party": "others",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "republicans": {
-        "id": 8639,
-        "name": "Donald Trump",
-        "shortName": "D. Trump",
-        "party": "republicans",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "democrats": {
-        "id": 64984,
-        "name": "Kamala Harris",
-        "shortName": "K. Harris",
-        "party": "democrats",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      }
-    }
-  },
-  "PA": {
-    "name": "Pennsylvania",
-    "abbreviation": "PA",
-    "data": {},
-    "stats": {},
-    "availableElectoralVotes": 0,
-    "history": [],
-    "candidates": {
-      "others": {
-        "id": 895,
-        "name": "Jill Stein",
-        "shortName": "J. Stein",
-        "party": "others",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "republicans": {
-        "id": 8639,
-        "name": "Donald Trump",
-        "shortName": "D. Trump",
-        "party": "republicans",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "democrats": {
-        "id": 64984,
-        "name": "Kamala Harris",
-        "shortName": "K. Harris",
-        "party": "democrats",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      }
-    }
-  },
-  "RI": {
-    "name": "Rhode Island",
-    "abbreviation": "RI",
-    "data": {},
-    "stats": {},
-    "availableElectoralVotes": 0,
-    "history": [],
-    "candidates": {
-      "others": {
-        "id": 895,
-        "name": "Jill Stein",
-        "shortName": "J. Stein",
-        "party": "others",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "republicans": {
-        "id": 8639,
-        "name": "Donald Trump",
-        "shortName": "D. Trump",
-        "party": "republicans",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "democrats": {
-        "id": 64984,
-        "name": "Kamala Harris",
-        "shortName": "K. Harris",
-        "party": "democrats",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "independents": {
-        "id": 20077008,
-        "name": "Robert Kennedy",
-        "shortName": "R. Kennedy",
-        "party": "independents",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      }
-    }
-  },
-  "SC": {
-    "name": "South Carolina",
-    "abbreviation": "SC",
-    "data": {},
-    "stats": {},
-    "availableElectoralVotes": 0,
-    "history": [],
-    "candidates": {
-      "others": {
-        "id": 895,
-        "name": "Jill Stein",
-        "shortName": "J. Stein",
-        "party": "others",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "republicans": {
-        "id": 8639,
-        "name": "Donald Trump",
-        "shortName": "D. Trump",
-        "party": "republicans",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "democrats": {
-        "id": 64984,
-        "name": "Kamala Harris",
-        "shortName": "K. Harris",
-        "party": "democrats",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      }
-    }
-  },
-  "SD": {
-    "name": "South Dakota",
-    "abbreviation": "SD",
-    "data": {},
-    "stats": {},
-    "availableElectoralVotes": 0,
-    "history": [],
-    "candidates": {
-      "republicans": {
-        "id": 8639,
-        "name": "Donald Trump",
-        "shortName": "D. Trump",
-        "party": "republicans",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "democrats": {
-        "id": 64984,
-        "name": "Kamala Harris",
-        "shortName": "K. Harris",
-        "party": "democrats",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "others": {
-        "id": 20076636,
-        "name": "Chase Oliver",
-        "shortName": "C. Oliver",
-        "party": "others",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "independents": {
-        "id": 20077008,
-        "name": "Robert Kennedy",
-        "shortName": "R. Kennedy",
-        "party": "independents",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      }
-    }
-  },
-  "TN": {
-    "name": "Tennessee",
-    "abbreviation": "TN",
-    "data": {},
-    "stats": {},
-    "availableElectoralVotes": 0,
-    "history": [],
-    "candidates": {
-      "others": {
-        "id": 895,
-        "name": "Jill Stein",
-        "shortName": "J. Stein",
-        "party": "others",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "republicans": {
-        "id": 8639,
-        "name": "Donald Trump",
-        "shortName": "D. Trump",
-        "party": "republicans",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "democrats": {
-        "id": 64984,
-        "name": "Kamala Harris",
-        "shortName": "K. Harris",
-        "party": "democrats",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "independents": {
-        "id": 20077008,
-        "name": "Robert Kennedy",
-        "shortName": "R. Kennedy",
-        "party": "independents",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      }
-    }
-  },
-  "TX": {
-    "name": "Texas",
-    "abbreviation": "TX",
-    "data": {},
-    "stats": {},
-    "availableElectoralVotes": 0,
-    "history": [],
-    "candidates": {
-      "others": {
-        "id": 895,
-        "name": "Jill Stein",
-        "shortName": "J. Stein",
-        "party": "others",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "republicans": {
-        "id": 8639,
-        "name": "Donald Trump",
-        "shortName": "D. Trump",
-        "party": "republicans",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "democrats": {
-        "id": 64984,
-        "name": "Kamala Harris",
-        "shortName": "K. Harris",
-        "party": "democrats",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      }
-    }
-  },
-  "UT": {
-    "name": "Utah",
-    "abbreviation": "UT",
-    "data": {},
-    "stats": {},
-    "availableElectoralVotes": 0,
-    "history": [],
-    "candidates": {
-      "others": {
-        "id": 895,
-        "name": "Jill Stein",
-        "shortName": "J. Stein",
-        "party": "others",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "republicans": {
-        "id": 8639,
-        "name": "Donald Trump",
-        "shortName": "D. Trump",
-        "party": "republicans",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "democrats": {
-        "id": 64984,
-        "name": "Kamala Harris",
-        "shortName": "K. Harris",
-        "party": "democrats",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      }
-    }
-  },
-  "VT": {
-    "name": "Vermont",
-    "abbreviation": "VT",
-    "data": {},
-    "stats": {},
-    "availableElectoralVotes": 0,
-    "history": [],
-    "candidates": {
-      "republicans": {
-        "id": 8639,
-        "name": "Donald Trump",
-        "shortName": "D. Trump",
-        "party": "republicans",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "others": {
-        "id": 21303,
-        "name": "Write-ins",
-        "shortName": "Write-ins",
-        "party": "others",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "democrats": {
-        "id": 64984,
-        "name": "Kamala Harris",
-        "shortName": "K. Harris",
-        "party": "democrats",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      }
-    }
-  },
-  "VA": {
-    "name": "Virginia",
-    "abbreviation": "VA",
-    "data": {},
-    "stats": {},
-    "availableElectoralVotes": 0,
-    "history": [],
-    "candidates": {
-      "others": {
-        "id": 895,
-        "name": "Jill Stein",
-        "shortName": "J. Stein",
-        "party": "others",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "republicans": {
-        "id": 8639,
-        "name": "Donald Trump",
-        "shortName": "D. Trump",
-        "party": "republicans",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "democrats": {
-        "id": 64984,
-        "name": "Kamala Harris",
-        "shortName": "K. Harris",
-        "party": "democrats",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
         }
       },
@@ -2300,85 +3458,63 @@
         "party": "independents",
         "stats": {
           "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
         }
       }
-    }
-  },
-  "WA": {
-    "name": "Washington",
-    "abbreviation": "WA",
-    "data": {},
-    "stats": {},
-    "availableElectoralVotes": 0,
-    "history": [],
-    "candidates": {
+    },
+    "lastUpdated": "2024-10-30T05:28:54.745Z",
+    "houseElectionCandidates": {
       "others": {
-        "id": 895,
-        "name": "Jill Stein",
-        "shortName": "J. Stein",
+        "id": 34158,
+        "name": "Tom Bailey",
+        "shortName": "T. Bailey",
         "party": "others",
         "stats": {
           "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
+          "percent": "0%"
+        }
+      },
+      "democrats": {
+        "id": 20074860,
+        "name": "Don Davis",
+        "shortName": "D. Davis",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
         }
       },
       "republicans": {
-        "id": 8639,
-        "name": "Donald Trump",
-        "shortName": "D. Trump",
+        "id": 20077289,
+        "name": "Laurie Buckhout",
+        "shortName": "L. Buckhout",
         "party": "republicans",
         "stats": {
           "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
+          "percent": "0%"
         }
       },
       "independents": {
-        "id": 21301,
-        "name": "Shiva Ayyadurai",
-        "shortName": "S. Ayyadurai",
+        "id": 20078524,
+        "name": "Shelane Etchison",
+        "shortName": "S. Etchison",
         "party": "independents",
         "stats": {
           "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "democrats": {
-        "id": 64984,
-        "name": "Kamala Harris",
-        "shortName": "K. Harris",
-        "party": "democrats",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
+          "percent": "0%"
         }
       }
-    }
+    },
+    "senateElectionCandidates": {}
   },
-  "WV": {
-    "name": "West Virginia",
-    "abbreviation": "WV",
+  "ND": {
+    "name": "North Dakota",
+    "abbreviation": "ND",
     "data": {},
     "stats": {},
-    "availableElectoralVotes": 0,
-    "history": [],
-    "candidates": {
-      "others": {
-        "id": 895,
-        "name": "Jill Stein",
-        "shortName": "J. Stein",
-        "party": "others",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
+    "availableElectoralVotes": 3,
+    "generalElectionCandidates": {
       "republicans": {
         "id": 8639,
         "name": "Donald Trump",
@@ -2386,93 +3522,7 @@
         "party": "republicans",
         "stats": {
           "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "democrats": {
-        "id": 64984,
-        "name": "Kamala Harris",
-        "shortName": "K. Harris",
-        "party": "democrats",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "independents": {
-        "id": 20077008,
-        "name": "Robert Kennedy",
-        "shortName": "R. Kennedy",
-        "party": "independents",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      }
-    }
-  },
-  "WI": {
-    "name": "Wisconsin",
-    "abbreviation": "WI",
-    "data": {},
-    "stats": {},
-    "availableElectoralVotes": 0,
-    "history": [],
-    "candidates": {
-      "others": {
-        "id": 895,
-        "name": "Jill Stein",
-        "shortName": "J. Stein",
-        "party": "others",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "republicans": {
-        "id": 8639,
-        "name": "Donald Trump",
-        "shortName": "D. Trump",
-        "party": "republicans",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      },
-      "democrats": {
-        "id": 64984,
-        "name": "Kamala Harris",
-        "shortName": "K. Harris",
-        "party": "democrats",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
-          "electoralVotes": 0
-        }
-      }
-    }
-  },
-  "WY": {
-    "name": "Wyoming",
-    "abbreviation": "WY",
-    "data": {},
-    "stats": {},
-    "availableElectoralVotes": 0,
-    "history": [],
-    "candidates": {
-      "republicans": {
-        "id": 8639,
-        "name": "Donald Trump",
-        "shortName": "D. Trump",
-        "party": "republicans",
-        "stats": {
-          "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
         }
       },
@@ -2483,7 +3533,7 @@
         "party": "others",
         "stats": {
           "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
         }
       },
@@ -2494,8 +3544,1784 @@
         "party": "democrats",
         "stats": {
           "votes": 0,
-          "percent": 0,
+          "percent": "0%",
           "electoralVotes": 0
+        }
+      }
+    },
+    "lastUpdated": "2024-10-30T05:28:54.745Z",
+    "houseElectionCandidates": {
+      "democrats": {
+        "id": 20078448,
+        "name": "Trygve Hammer",
+        "shortName": "T. Hammer",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "republicans": {
+        "id": 20078556,
+        "name": "Julie Fedorchak",
+        "shortName": "J. Fedorchak",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    },
+    "senateElectionCandidates": {
+      "republicans": {
+        "id": 62068,
+        "name": "Kevin Cramer",
+        "shortName": "K. Cramer",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "democrats": {
+        "id": 20075545,
+        "name": "Katrina Christiansen",
+        "shortName": "K. Christiansen",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    }
+  },
+  "OH": {
+    "name": "Ohio",
+    "abbreviation": "OH",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 17,
+    "generalElectionCandidates": {
+      "others": {
+        "id": 895,
+        "name": "Jill Stein",
+        "shortName": "J. Stein",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "independents": {
+        "id": 21126,
+        "name": "Richard Duncan",
+        "shortName": "R. Duncan",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      }
+    },
+    "lastUpdated": "2024-10-30T05:28:54.745Z",
+    "houseElectionCandidates": {
+      "democrats": {
+        "id": 20075257,
+        "name": "Greg Landsman",
+        "shortName": "G. Landsman",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "republicans": {
+        "id": 20077598,
+        "name": "Orlando Sonza",
+        "shortName": "O. Sonza",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "others": {
+        "id": 21303,
+        "name": "Write-ins",
+        "shortName": "Write-ins",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "independents": {
+        "id": 1380,
+        "name": "Dennis Kucinich",
+        "shortName": "D. Kucinich",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    },
+    "senateElectionCandidates": {
+      "democrats": {
+        "id": 1384,
+        "name": "Sherrod Brown",
+        "shortName": "S. Brown",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "others": {
+        "id": 21298,
+        "name": "Don Kissick",
+        "shortName": "D. Kissick",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "republicans": {
+        "id": 20077596,
+        "name": "Bernie Moreno",
+        "shortName": "B. Moreno",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    }
+  },
+  "OK": {
+    "name": "Oklahoma",
+    "abbreviation": "OK",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 7,
+    "generalElectionCandidates": {
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "others": {
+        "id": 20076636,
+        "name": "Chase Oliver",
+        "shortName": "C. Oliver",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "independents": {
+        "id": 20077008,
+        "name": "Robert Kennedy",
+        "shortName": "R. Kennedy",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      }
+    },
+    "lastUpdated": "2024-10-30T05:28:54.745Z",
+    "houseElectionCandidates": {
+      "republicans": {
+        "id": 20374,
+        "name": "Kevin Hern",
+        "shortName": "K. Hern",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "democrats": {
+        "id": 20075577,
+        "name": "Dennis Baker",
+        "shortName": "D. Baker",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "independents": {
+        "id": 20078451,
+        "name": "Mark Sanders",
+        "shortName": "M. Sanders",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    },
+    "senateElectionCandidates": {}
+  },
+  "OR": {
+    "name": "Oregon",
+    "abbreviation": "OR",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 8,
+    "generalElectionCandidates": {
+      "others": {
+        "id": 895,
+        "name": "Jill Stein",
+        "shortName": "J. Stein",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "independents": {
+        "id": 20077008,
+        "name": "Robert Kennedy",
+        "shortName": "R. Kennedy",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      }
+    },
+    "lastUpdated": "2024-10-30T05:28:54.745Z",
+    "houseElectionCandidates": {
+      "democrats": {
+        "id": 61555,
+        "name": "Suzanne Bonamici",
+        "shortName": "S. Bonamici",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "republicans": {
+        "id": 20078218,
+        "name": "Bob Todd",
+        "shortName": "B. Todd",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "others": {
+        "id": 20078847,
+        "name": "Joseph Christman",
+        "shortName": "J. Christman",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "independents": {
+        "id": 64477,
+        "name": "David Walker",
+        "shortName": "D. Walker",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    },
+    "senateElectionCandidates": {}
+  },
+  "PA": {
+    "name": "Pennsylvania",
+    "abbreviation": "PA",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 19,
+    "generalElectionCandidates": {
+      "others": {
+        "id": 895,
+        "name": "Jill Stein",
+        "shortName": "J. Stein",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      }
+    },
+    "lastUpdated": "2024-10-30T05:28:54.745Z",
+    "houseElectionCandidates": {
+      "republicans": {
+        "id": 64827,
+        "name": "Brian Fitzpatrick",
+        "shortName": "B. Fitzpatrick",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "democrats": {
+        "id": 20074821,
+        "name": "Ashley Ehasz",
+        "shortName": "A. Ehasz",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "others": {
+        "id": 21303,
+        "name": "Write-ins",
+        "shortName": "Write-ins",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    },
+    "senateElectionCandidates": {
+      "democrats": {
+        "id": 39527,
+        "name": "Bob Casey",
+        "shortName": "B. Casey",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "republicans": {
+        "id": 20074811,
+        "name": "Dave McCormick",
+        "shortName": "D. McCormick",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "others": {
+        "id": 20078802,
+        "name": "Leila Hazou",
+        "shortName": "L. Hazou",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    }
+  },
+  "RI": {
+    "name": "Rhode Island",
+    "abbreviation": "RI",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 4,
+    "generalElectionCandidates": {
+      "others": {
+        "id": 895,
+        "name": "Jill Stein",
+        "shortName": "J. Stein",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "independents": {
+        "id": 20077008,
+        "name": "Robert Kennedy",
+        "shortName": "R. Kennedy",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      }
+    },
+    "lastUpdated": "2024-10-30T05:28:54.745Z",
+    "houseElectionCandidates": {
+      "republicans": {
+        "id": 20073411,
+        "name": "Allen Waters",
+        "shortName": "A. Waters",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "democrats": {
+        "id": 20077020,
+        "name": "Gabriel Amo",
+        "shortName": "G. Amo",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "independents": {
+        "id": 20078724,
+        "name": "C.D. Reynolds",
+        "shortName": "C. Reynolds",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    },
+    "senateElectionCandidates": {
+      "democrats": {
+        "id": 40102,
+        "name": "Sheldon Whitehouse",
+        "shortName": "S. Whitehouse",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "republicans": {
+        "id": 20072959,
+        "name": "Patricia Morgan",
+        "shortName": "P. Morgan",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    }
+  },
+  "SC": {
+    "name": "South Carolina",
+    "abbreviation": "SC",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 9,
+    "generalElectionCandidates": {
+      "others": {
+        "id": 895,
+        "name": "Jill Stein",
+        "shortName": "J. Stein",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "independents": {
+        "id": 20078274,
+        "name": "Cornel West",
+        "shortName": "C. West",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      }
+    },
+    "lastUpdated": "2024-10-30T05:28:54.745Z",
+    "houseElectionCandidates": {
+      "republicans": {
+        "id": 63782,
+        "name": "Nancy Mace",
+        "shortName": "N. Mace",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "democrats": {
+        "id": 20076977,
+        "name": "Michael Moore",
+        "shortName": "M. Moore",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "others": {
+        "id": 20078908,
+        "name": "Mike Bedenbaugh",
+        "shortName": "M. Bedenbaugh",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    },
+    "senateElectionCandidates": {}
+  },
+  "SD": {
+    "name": "South Dakota",
+    "abbreviation": "SD",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 3,
+    "generalElectionCandidates": {
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "others": {
+        "id": 20076636,
+        "name": "Chase Oliver",
+        "shortName": "C. Oliver",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "independents": {
+        "id": 20077008,
+        "name": "Robert Kennedy",
+        "shortName": "R. Kennedy",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      }
+    },
+    "lastUpdated": "2024-10-30T05:28:54.745Z",
+    "houseElectionCandidates": {
+      "republicans": {
+        "id": 20617,
+        "name": "Dusty Johnson",
+        "shortName": "D. Johnson",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "democrats": {
+        "id": 20078289,
+        "name": "Sheryl Johnson",
+        "shortName": "S. Johnson",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    },
+    "senateElectionCandidates": {}
+  },
+  "TN": {
+    "name": "Tennessee",
+    "abbreviation": "TN",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 11,
+    "generalElectionCandidates": {
+      "others": {
+        "id": 895,
+        "name": "Jill Stein",
+        "shortName": "J. Stein",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "independents": {
+        "id": 20077008,
+        "name": "Robert Kennedy",
+        "shortName": "R. Kennedy",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      }
+    },
+    "lastUpdated": "2024-10-30T05:28:54.745Z",
+    "houseElectionCandidates": {
+      "republicans": {
+        "id": 20073935,
+        "name": "Diana Harshbarger",
+        "shortName": "D. Harshbarger",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "independents": {
+        "id": 20076609,
+        "name": "Richard Baker",
+        "shortName": "R. Baker",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "democrats": {
+        "id": 20078459,
+        "name": "Kevin Jenkins",
+        "shortName": "K. Jenkins",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    },
+    "senateElectionCandidates": {
+      "republicans": {
+        "id": 682,
+        "name": "Marsha Blackburn",
+        "shortName": "M. Blackburn",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "independents": {
+        "id": 65322,
+        "name": "Tharon Chandler",
+        "shortName": "T. Chandler",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "democrats": {
+        "id": 20078761,
+        "name": "Gloria Johnson",
+        "shortName": "G. Johnson",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    }
+  },
+  "TX": {
+    "name": "Texas",
+    "abbreviation": "TX",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 40,
+    "generalElectionCandidates": {
+      "others": {
+        "id": 895,
+        "name": "Jill Stein",
+        "shortName": "J. Stein",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      }
+    },
+    "lastUpdated": "2024-10-30T05:28:54.745Z",
+    "houseElectionCandidates": {
+      "republicans": {
+        "id": 20074315,
+        "name": "Nathaniel Moran",
+        "shortName": "N. Moran",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "democrats": {
+        "id": 20077204,
+        "name": "Peter Filler",
+        "shortName": "P. Filler",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "others": {
+        "id": 20078873,
+        "name": "Jeff Miller",
+        "shortName": "J. Miller",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "independents": {
+        "id": 20074499,
+        "name": "Nathan Lewis",
+        "shortName": "N. Lewis",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    },
+    "senateElectionCandidates": {
+      "others": {
+        "id": 91,
+        "name": "Ted Brown",
+        "shortName": "T. Brown",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "democrats": {
+        "id": 19466,
+        "name": "Colin Allred",
+        "shortName": "C. Allred",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "republicans": {
+        "id": 61815,
+        "name": "Ted Cruz",
+        "shortName": "T. Cruz",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    }
+  },
+  "UT": {
+    "name": "Utah",
+    "abbreviation": "UT",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 6,
+    "generalElectionCandidates": {
+      "others": {
+        "id": 895,
+        "name": "Jill Stein",
+        "shortName": "J. Stein",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "independents": {
+        "id": 20078274,
+        "name": "Cornel West",
+        "shortName": "C. West",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      }
+    },
+    "lastUpdated": "2024-10-30T05:28:54.746Z",
+    "houseElectionCandidates": {
+      "others": {
+        "id": 20073749,
+        "name": "Daniel Cottam",
+        "shortName": "D. Cottam",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "republicans": {
+        "id": 20073829,
+        "name": "Blake Moore",
+        "shortName": "B. Moore",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "democrats": {
+        "id": 20078473,
+        "name": "Bill Campbell",
+        "shortName": "B. Campbell",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "independents": {
+        "id": 20078476,
+        "name": "Tyler Murset",
+        "shortName": "T. Murset",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    },
+    "senateElectionCandidates": {
+      "republicans": {
+        "id": 1479,
+        "name": "John Curtis",
+        "shortName": "J. Curtis",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "independents": {
+        "id": 2568,
+        "name": "Carlton Bowen",
+        "shortName": "C. Bowen",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "democrats": {
+        "id": 20078490,
+        "name": "Caroline Gleich",
+        "shortName": "C. Gleich",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    }
+  },
+  "VT": {
+    "name": "Vermont",
+    "abbreviation": "VT",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 3,
+    "generalElectionCandidates": {
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "others": {
+        "id": 21303,
+        "name": "Write-ins",
+        "shortName": "Write-ins",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "independents": {
+        "id": 20077008,
+        "name": "Robert Kennedy",
+        "shortName": "R. Kennedy",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      }
+    },
+    "lastUpdated": "2024-10-30T05:28:54.746Z",
+    "houseElectionCandidates": {
+      "others": {
+        "id": 21303,
+        "name": "Write-ins",
+        "shortName": "Write-ins",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "democrats": {
+        "id": 20076243,
+        "name": "Becca Balint",
+        "shortName": "B. Balint",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "republicans": {
+        "id": 20076729,
+        "name": "Mark Coester",
+        "shortName": "M. Coester",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "independents": {
+        "id": 20076845,
+        "name": "Adam Ortiz",
+        "shortName": "A. Ortiz",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    },
+    "senateElectionCandidates": {
+      "independents": {
+        "id": 1445,
+        "name": "Bernie Sanders",
+        "shortName": "B. Sanders",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "others": {
+        "id": 20066214,
+        "name": "Mark Stewart Greenstein",
+        "shortName": "M. Stewart Greenstein",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "republicans": {
+        "id": 20076228,
+        "name": "Gerald Malloy",
+        "shortName": "G. Malloy",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    }
+  },
+  "VA": {
+    "name": "Virginia",
+    "abbreviation": "VA",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 13,
+    "generalElectionCandidates": {
+      "others": {
+        "id": 895,
+        "name": "Jill Stein",
+        "shortName": "J. Stein",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "independents": {
+        "id": 20078274,
+        "name": "Cornel West",
+        "shortName": "C. West",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      }
+    },
+    "lastUpdated": "2024-10-30T05:28:54.746Z",
+    "houseElectionCandidates": {
+      "republicans": {
+        "id": 57798,
+        "name": "Rob Wittman",
+        "shortName": "R. Wittman",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "democrats": {
+        "id": 20078367,
+        "name": "Leslie Mehta",
+        "shortName": "L. Mehta",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "independents": {
+        "id": 20078893,
+        "name": "Robert Reid",
+        "shortName": "R. Reid",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    },
+    "senateElectionCandidates": {
+      "democrats": {
+        "id": 51423,
+        "name": "Tim Kaine",
+        "shortName": "T. Kaine",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "republicans": {
+        "id": 20076456,
+        "name": "Hung Cao",
+        "shortName": "H. Cao",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    }
+  },
+  "WA": {
+    "name": "Washington",
+    "abbreviation": "WA",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 12,
+    "generalElectionCandidates": {
+      "others": {
+        "id": 895,
+        "name": "Jill Stein",
+        "shortName": "J. Stein",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "independents": {
+        "id": 21301,
+        "name": "Shiva Ayyadurai",
+        "shortName": "S. Ayyadurai",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      }
+    },
+    "lastUpdated": "2024-10-30T05:28:54.746Z",
+    "houseElectionCandidates": {
+      "democrats": {
+        "id": 61012,
+        "name": "Suzan DelBene",
+        "shortName": "S. DelBene",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "republicans": {
+        "id": 20078824,
+        "name": "Jeb Brewer",
+        "shortName": "J. Brewer",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    },
+    "senateElectionCandidates": {
+      "democrats": {
+        "id": 1805,
+        "name": "Maria Cantwell",
+        "shortName": "M. Cantwell",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "republicans": {
+        "id": 20077011,
+        "name": "Raul Garcia",
+        "shortName": "R. Garcia",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    }
+  },
+  "WV": {
+    "name": "West Virginia",
+    "abbreviation": "WV",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 4,
+    "generalElectionCandidates": {
+      "others": {
+        "id": 895,
+        "name": "Jill Stein",
+        "shortName": "J. Stein",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "independents": {
+        "id": 20077008,
+        "name": "Robert Kennedy",
+        "shortName": "R. Kennedy",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      }
+    },
+    "lastUpdated": "2024-10-30T05:28:54.746Z",
+    "houseElectionCandidates": {
+      "republicans": {
+        "id": 20069229,
+        "name": "Carol Miller",
+        "shortName": "C. Miller",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "democrats": {
+        "id": 20077711,
+        "name": "Chris Reed",
+        "shortName": "C. Reed",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "independents": {
+        "id": 20078710,
+        "name": "Wes Holden",
+        "shortName": "W. Holden",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    },
+    "senateElectionCandidates": {
+      "others": {
+        "id": 62658,
+        "name": "David Moran",
+        "shortName": "D. Moran",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "republicans": {
+        "id": 64870,
+        "name": "Jim Justice",
+        "shortName": "J. Justice",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "democrats": {
+        "id": 20077694,
+        "name": "Glenn Elliott",
+        "shortName": "G. Elliott",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    }
+  },
+  "WI": {
+    "name": "Wisconsin",
+    "abbreviation": "WI",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 10,
+    "generalElectionCandidates": {
+      "others": {
+        "id": 895,
+        "name": "Jill Stein",
+        "shortName": "J. Stein",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "independents": {
+        "id": 20077008,
+        "name": "Robert Kennedy",
+        "shortName": "R. Kennedy",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      }
+    },
+    "lastUpdated": "2024-10-30T05:28:54.746Z",
+    "houseElectionCandidates": {
+      "republicans": {
+        "id": 21020,
+        "name": "Bryan Steil",
+        "shortName": "B. Steil",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "democrats": {
+        "id": 20064648,
+        "name": "Peter Barca",
+        "shortName": "P. Barca",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "others": {
+        "id": 20078666,
+        "name": "Chester Todd",
+        "shortName": "C. Todd",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "independents": {
+        "id": 2690,
+        "name": "Robert Raymond",
+        "shortName": "R. Raymond",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    },
+    "senateElectionCandidates": {
+      "democrats": {
+        "id": 1092,
+        "name": "Tammy Baldwin",
+        "shortName": "T. Baldwin",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "republicans": {
+        "id": 62528,
+        "name": "Eric Hovde",
+        "shortName": "E. Hovde",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "others": {
+        "id": 65466,
+        "name": "Phil Anderson",
+        "shortName": "P. Anderson",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    }
+  },
+  "WY": {
+    "name": "Wyoming",
+    "abbreviation": "WY",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 3,
+    "generalElectionCandidates": {
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "others": {
+        "id": 21303,
+        "name": "Write-ins",
+        "shortName": "Write-ins",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%",
+          "electoralVotes": 0
+        }
+      }
+    },
+    "lastUpdated": "2024-10-30T05:28:54.746Z",
+    "houseElectionCandidates": {
+      "others": {
+        "id": 62702,
+        "name": "Richard Brubaker",
+        "shortName": "R. Brubaker",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "republicans": {
+        "id": 20072969,
+        "name": "Harriet Hageman",
+        "shortName": "H. Hageman",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "democrats": {
+        "id": 20078480,
+        "name": "Kyle Cameron",
+        "shortName": "K. Cameron",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      }
+    },
+    "senateElectionCandidates": {
+      "republicans": {
+        "id": 52935,
+        "name": "John Barrasso",
+        "shortName": "J. Barrasso",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
+        }
+      },
+      "democrats": {
+        "id": 20078844,
+        "name": "Scott Morrow",
+        "shortName": "S. Morrow",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": "0%"
         }
       }
     }
