@@ -1,0 +1,2503 @@
+{
+  "AL": {
+    "name": "Alabama",
+    "abbreviation": "AL",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 0,
+    "history": [],
+    "candidates": {
+      "independents": {
+        "id": 895,
+        "name": "Jill Stein",
+        "shortName": "J. Stein",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "others": {
+        "id": 21303,
+        "name": "Write-ins",
+        "shortName": "Write-ins",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      }
+    }
+  },
+  "AK": {
+    "name": "Alaska",
+    "abbreviation": "AK",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 0,
+    "history": [],
+    "candidates": {
+      "independents": {
+        "id": 895,
+        "name": "Jill Stein",
+        "shortName": "J. Stein",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "others": {
+        "id": 61513,
+        "name": "Randall Terry",
+        "shortName": "R. Terry",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      }
+    }
+  },
+  "AZ": {
+    "name": "Arizona",
+    "abbreviation": "AZ",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 0,
+    "history": [],
+    "candidates": {
+      "others": {
+        "id": 895,
+        "name": "Jill Stein",
+        "shortName": "J. Stein",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      }
+    }
+  },
+  "AR": {
+    "name": "Arkansas",
+    "abbreviation": "AR",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 0,
+    "history": [],
+    "candidates": {
+      "others": {
+        "id": 895,
+        "name": "Jill Stein",
+        "shortName": "J. Stein",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "independents": {
+        "id": 20077008,
+        "name": "Robert Kennedy",
+        "shortName": "R. Kennedy",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      }
+    }
+  },
+  "CA": {
+    "name": "California",
+    "abbreviation": "CA",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 0,
+    "history": [],
+    "candidates": {
+      "others": {
+        "id": 895,
+        "name": "Jill Stein",
+        "shortName": "J. Stein",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      }
+    }
+  },
+  "CO": {
+    "name": "Colorado",
+    "abbreviation": "CO",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 0,
+    "history": [],
+    "candidates": {
+      "others": {
+        "id": 895,
+        "name": "Jill Stein",
+        "shortName": "J. Stein",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      }
+    }
+  },
+  "CT": {
+    "name": "Connecticut",
+    "abbreviation": "CT",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 0,
+    "history": [],
+    "candidates": {
+      "others": {
+        "id": 895,
+        "name": "Jill Stein",
+        "shortName": "J. Stein",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "independents": {
+        "id": 20077008,
+        "name": "Robert Kennedy",
+        "shortName": "R. Kennedy",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      }
+    }
+  },
+  "DE": {
+    "name": "Delaware",
+    "abbreviation": "DE",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 0,
+    "history": [],
+    "candidates": {
+      "others": {
+        "id": 1968,
+        "name": "Vermin Supreme",
+        "shortName": "V. Supreme",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "independents": {
+        "id": 20077008,
+        "name": "Robert Kennedy",
+        "shortName": "R. Kennedy",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      }
+    }
+  },
+  "DC": {
+    "name": "District of Columbia",
+    "abbreviation": "DC",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 0,
+    "history": [],
+    "candidates": {
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "others": {
+        "id": 21303,
+        "name": "Write-ins",
+        "shortName": "Write-ins",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "independents": {
+        "id": 20077008,
+        "name": "Robert Kennedy",
+        "shortName": "R. Kennedy",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      }
+    }
+  },
+  "FL": {
+    "name": "Florida",
+    "abbreviation": "FL",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 0,
+    "history": [],
+    "candidates": {
+      "others": {
+        "id": 895,
+        "name": "Jill Stein",
+        "shortName": "J. Stein",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      }
+    }
+  },
+  "GA": {
+    "name": "Georgia",
+    "abbreviation": "GA",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 0,
+    "history": [],
+    "candidates": {
+      "others": {
+        "id": 895,
+        "name": "Jill Stein",
+        "shortName": "J. Stein",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "independents": {
+        "id": 20078274,
+        "name": "Cornel West",
+        "shortName": "C. West",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      }
+    }
+  },
+  "HI": {
+    "name": "Hawaii",
+    "abbreviation": "HI",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 0,
+    "history": [],
+    "candidates": {
+      "others": {
+        "id": 895,
+        "name": "Jill Stein",
+        "shortName": "J. Stein",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      }
+    }
+  },
+  "ID": {
+    "name": "Idaho",
+    "abbreviation": "ID",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 0,
+    "history": [],
+    "candidates": {
+      "others": {
+        "id": 895,
+        "name": "Jill Stein",
+        "shortName": "J. Stein",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "independents": {
+        "id": 21301,
+        "name": "Shiva Ayyadurai",
+        "shortName": "S. Ayyadurai",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      }
+    }
+  },
+  "IL": {
+    "name": "Illinois",
+    "abbreviation": "IL",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 0,
+    "history": [],
+    "candidates": {
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "others": {
+        "id": 21303,
+        "name": "Write-ins",
+        "shortName": "Write-ins",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      }
+    }
+  },
+  "IN": {
+    "name": "Indiana",
+    "abbreviation": "IN",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 0,
+    "history": [],
+    "candidates": {
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "others": {
+        "id": 21303,
+        "name": "Write-ins",
+        "shortName": "Write-ins",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      }
+    }
+  },
+  "IA": {
+    "name": "Iowa",
+    "abbreviation": "IA",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 0,
+    "history": [],
+    "candidates": {
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "independents": {
+        "id": 21301,
+        "name": "Shiva Ayyadurai",
+        "shortName": "S. Ayyadurai",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "others": {
+        "id": 21303,
+        "name": "Write-ins",
+        "shortName": "Write-ins",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      }
+    }
+  },
+  "KS": {
+    "name": "Kansas",
+    "abbreviation": "KS",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 0,
+    "history": [],
+    "candidates": {
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "others": {
+        "id": 21303,
+        "name": "Write-ins",
+        "shortName": "Write-ins",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "independents": {
+        "id": 20077008,
+        "name": "Robert Kennedy",
+        "shortName": "R. Kennedy",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      }
+    }
+  },
+  "KY": {
+    "name": "Kentucky",
+    "abbreviation": "KY",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 0,
+    "history": [],
+    "candidates": {
+      "others": {
+        "id": 895,
+        "name": "Jill Stein",
+        "shortName": "J. Stein",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "independents": {
+        "id": 21301,
+        "name": "Shiva Ayyadurai",
+        "shortName": "S. Ayyadurai",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      }
+    }
+  },
+  "LA": {
+    "name": "Louisiana",
+    "abbreviation": "LA",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 0,
+    "history": [],
+    "candidates": {
+      "others": {
+        "id": 895,
+        "name": "Jill Stein",
+        "shortName": "J. Stein",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      }
+    }
+  },
+  "ME": {
+    "name": "Maine",
+    "abbreviation": "ME",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 0,
+    "history": [],
+    "candidates": {
+      "others": {
+        "id": 895,
+        "name": "Jill Stein",
+        "shortName": "J. Stein",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "independents": {
+        "id": 20078274,
+        "name": "Cornel West",
+        "shortName": "C. West",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      }
+    }
+  },
+  "MD": {
+    "name": "Maryland",
+    "abbreviation": "MD",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 0,
+    "history": [],
+    "candidates": {
+      "others": {
+        "id": 895,
+        "name": "Jill Stein",
+        "shortName": "J. Stein",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      }
+    }
+  },
+  "MA": {
+    "name": "Massachusetts",
+    "abbreviation": "MA",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 0,
+    "history": [],
+    "candidates": {
+      "others": {
+        "id": 895,
+        "name": "Jill Stein",
+        "shortName": "J. Stein",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "independents": {
+        "id": 21301,
+        "name": "Shiva Ayyadurai",
+        "shortName": "S. Ayyadurai",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      }
+    }
+  },
+  "MI": {
+    "name": "Michigan",
+    "abbreviation": "MI",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 0,
+    "history": [],
+    "candidates": {
+      "others": {
+        "id": 895,
+        "name": "Jill Stein",
+        "shortName": "J. Stein",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "independents": {
+        "id": 20073953,
+        "name": "Joseph Kishore",
+        "shortName": "J. Kishore",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      }
+    }
+  },
+  "MN": {
+    "name": "Minnesota",
+    "abbreviation": "MN",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 0,
+    "history": [],
+    "candidates": {
+      "others": {
+        "id": 895,
+        "name": "Jill Stein",
+        "shortName": "J. Stein",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "independents": {
+        "id": 21301,
+        "name": "Shiva Ayyadurai",
+        "shortName": "S. Ayyadurai",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      }
+    }
+  },
+  "MS": {
+    "name": "Mississippi",
+    "abbreviation": "MS",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 0,
+    "history": [],
+    "candidates": {
+      "others": {
+        "id": 895,
+        "name": "Jill Stein",
+        "shortName": "J. Stein",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "independents": {
+        "id": 21301,
+        "name": "Shiva Ayyadurai",
+        "shortName": "S. Ayyadurai",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      }
+    }
+  },
+  "MO": {
+    "name": "Missouri",
+    "abbreviation": "MO",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 0,
+    "history": [],
+    "candidates": {
+      "others": {
+        "id": 895,
+        "name": "Jill Stein",
+        "shortName": "J. Stein",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      }
+    }
+  },
+  "MT": {
+    "name": "Montana",
+    "abbreviation": "MT",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 0,
+    "history": [],
+    "candidates": {
+      "others": {
+        "id": 895,
+        "name": "Jill Stein",
+        "shortName": "J. Stein",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      }
+    }
+  },
+  "NE": {
+    "name": "Nebraska",
+    "abbreviation": "NE",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 0,
+    "history": [],
+    "candidates": {
+      "independents": {
+        "id": 895,
+        "name": "Jill Stein",
+        "shortName": "J. Stein",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "others": {
+        "id": 21303,
+        "name": "Write-ins",
+        "shortName": "Write-ins",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      }
+    }
+  },
+  "NV": {
+    "name": "Nevada",
+    "abbreviation": "NV",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 0,
+    "history": [],
+    "candidates": {
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "others": {
+        "id": 100013,
+        "name": "None of these candidate",
+        "shortName": "None of these candidate",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "independents": {
+        "id": 20078491,
+        "name": "Joel Skousen",
+        "shortName": "J. Skousen",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      }
+    }
+  },
+  "NH": {
+    "name": "New Hampshire",
+    "abbreviation": "NH",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 0,
+    "history": [],
+    "candidates": {
+      "others": {
+        "id": 895,
+        "name": "Jill Stein",
+        "shortName": "J. Stein",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      }
+    }
+  },
+  "NJ": {
+    "name": "New Jersey",
+    "abbreviation": "NJ",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 0,
+    "history": [],
+    "candidates": {
+      "others": {
+        "id": 895,
+        "name": "Jill Stein",
+        "shortName": "J. Stein",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "independents": {
+        "id": 20077008,
+        "name": "Robert Kennedy",
+        "shortName": "R. Kennedy",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      }
+    }
+  },
+  "NM": {
+    "name": "New Mexico",
+    "abbreviation": "NM",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 0,
+    "history": [],
+    "candidates": {
+      "others": {
+        "id": 895,
+        "name": "Jill Stein",
+        "shortName": "J. Stein",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "independents": {
+        "id": 20077008,
+        "name": "Robert Kennedy",
+        "shortName": "R. Kennedy",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      }
+    }
+  },
+  "NY": {
+    "name": "New York",
+    "abbreviation": "NY",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 0,
+    "history": [],
+    "candidates": {
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "others": {
+        "id": 21303,
+        "name": "Write-ins",
+        "shortName": "Write-ins",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      }
+    }
+  },
+  "NC": {
+    "name": "North Carolina",
+    "abbreviation": "NC",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 0,
+    "history": [],
+    "candidates": {
+      "others": {
+        "id": 895,
+        "name": "Jill Stein",
+        "shortName": "J. Stein",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      }
+    }
+  },
+  "ND": {
+    "name": "North Dakota",
+    "abbreviation": "ND",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 0,
+    "history": [],
+    "candidates": {
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "others": {
+        "id": 21303,
+        "name": "Write-ins",
+        "shortName": "Write-ins",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      }
+    }
+  },
+  "OH": {
+    "name": "Ohio",
+    "abbreviation": "OH",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 0,
+    "history": [],
+    "candidates": {
+      "others": {
+        "id": 895,
+        "name": "Jill Stein",
+        "shortName": "J. Stein",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "independents": {
+        "id": 21126,
+        "name": "Richard Duncan",
+        "shortName": "R. Duncan",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      }
+    }
+  },
+  "OK": {
+    "name": "Oklahoma",
+    "abbreviation": "OK",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 0,
+    "history": [],
+    "candidates": {
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "others": {
+        "id": 20076636,
+        "name": "Chase Oliver",
+        "shortName": "C. Oliver",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "independents": {
+        "id": 20077008,
+        "name": "Robert Kennedy",
+        "shortName": "R. Kennedy",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      }
+    }
+  },
+  "OR": {
+    "name": "Oregon",
+    "abbreviation": "OR",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 0,
+    "history": [],
+    "candidates": {
+      "others": {
+        "id": 895,
+        "name": "Jill Stein",
+        "shortName": "J. Stein",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      }
+    }
+  },
+  "PA": {
+    "name": "Pennsylvania",
+    "abbreviation": "PA",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 0,
+    "history": [],
+    "candidates": {
+      "others": {
+        "id": 895,
+        "name": "Jill Stein",
+        "shortName": "J. Stein",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      }
+    }
+  },
+  "RI": {
+    "name": "Rhode Island",
+    "abbreviation": "RI",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 0,
+    "history": [],
+    "candidates": {
+      "others": {
+        "id": 895,
+        "name": "Jill Stein",
+        "shortName": "J. Stein",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "independents": {
+        "id": 20077008,
+        "name": "Robert Kennedy",
+        "shortName": "R. Kennedy",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      }
+    }
+  },
+  "SC": {
+    "name": "South Carolina",
+    "abbreviation": "SC",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 0,
+    "history": [],
+    "candidates": {
+      "others": {
+        "id": 895,
+        "name": "Jill Stein",
+        "shortName": "J. Stein",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      }
+    }
+  },
+  "SD": {
+    "name": "South Dakota",
+    "abbreviation": "SD",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 0,
+    "history": [],
+    "candidates": {
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "others": {
+        "id": 20076636,
+        "name": "Chase Oliver",
+        "shortName": "C. Oliver",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "independents": {
+        "id": 20077008,
+        "name": "Robert Kennedy",
+        "shortName": "R. Kennedy",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      }
+    }
+  },
+  "TN": {
+    "name": "Tennessee",
+    "abbreviation": "TN",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 0,
+    "history": [],
+    "candidates": {
+      "others": {
+        "id": 895,
+        "name": "Jill Stein",
+        "shortName": "J. Stein",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "independents": {
+        "id": 20077008,
+        "name": "Robert Kennedy",
+        "shortName": "R. Kennedy",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      }
+    }
+  },
+  "TX": {
+    "name": "Texas",
+    "abbreviation": "TX",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 0,
+    "history": [],
+    "candidates": {
+      "others": {
+        "id": 895,
+        "name": "Jill Stein",
+        "shortName": "J. Stein",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      }
+    }
+  },
+  "UT": {
+    "name": "Utah",
+    "abbreviation": "UT",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 0,
+    "history": [],
+    "candidates": {
+      "others": {
+        "id": 895,
+        "name": "Jill Stein",
+        "shortName": "J. Stein",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      }
+    }
+  },
+  "VT": {
+    "name": "Vermont",
+    "abbreviation": "VT",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 0,
+    "history": [],
+    "candidates": {
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "others": {
+        "id": 21303,
+        "name": "Write-ins",
+        "shortName": "Write-ins",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      }
+    }
+  },
+  "VA": {
+    "name": "Virginia",
+    "abbreviation": "VA",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 0,
+    "history": [],
+    "candidates": {
+      "others": {
+        "id": 895,
+        "name": "Jill Stein",
+        "shortName": "J. Stein",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "independents": {
+        "id": 20078274,
+        "name": "Cornel West",
+        "shortName": "C. West",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      }
+    }
+  },
+  "WA": {
+    "name": "Washington",
+    "abbreviation": "WA",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 0,
+    "history": [],
+    "candidates": {
+      "others": {
+        "id": 895,
+        "name": "Jill Stein",
+        "shortName": "J. Stein",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "independents": {
+        "id": 21301,
+        "name": "Shiva Ayyadurai",
+        "shortName": "S. Ayyadurai",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      }
+    }
+  },
+  "WV": {
+    "name": "West Virginia",
+    "abbreviation": "WV",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 0,
+    "history": [],
+    "candidates": {
+      "others": {
+        "id": 895,
+        "name": "Jill Stein",
+        "shortName": "J. Stein",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "independents": {
+        "id": 20077008,
+        "name": "Robert Kennedy",
+        "shortName": "R. Kennedy",
+        "party": "independents",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      }
+    }
+  },
+  "WI": {
+    "name": "Wisconsin",
+    "abbreviation": "WI",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 0,
+    "history": [],
+    "candidates": {
+      "others": {
+        "id": 895,
+        "name": "Jill Stein",
+        "shortName": "J. Stein",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      }
+    }
+  },
+  "WY": {
+    "name": "Wyoming",
+    "abbreviation": "WY",
+    "data": {},
+    "stats": {},
+    "availableElectoralVotes": 0,
+    "history": [],
+    "candidates": {
+      "republicans": {
+        "id": 8639,
+        "name": "Donald Trump",
+        "shortName": "D. Trump",
+        "party": "republicans",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "others": {
+        "id": 21303,
+        "name": "Write-ins",
+        "shortName": "Write-ins",
+        "party": "others",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      },
+      "democrats": {
+        "id": 64984,
+        "name": "Kamala Harris",
+        "shortName": "K. Harris",
+        "party": "democrats",
+        "stats": {
+          "votes": 0,
+          "percent": 0,
+          "electoralVotes": 0
+        }
+      }
+    }
+  }
+}

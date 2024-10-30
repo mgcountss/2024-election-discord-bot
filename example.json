@@ -1,0 +1,5718 @@
+{
+    "_generated": "2024-10-26T01:52:41.834Z",
+    "id": 10,
+    "fips": "12",
+    "name": "FLORIDA",
+    "abbreviation": "FL",
+    "displayName": "Florida",
+    "shortDisplayName": "Fla.",
+    "availableElectoralVotes": 30,
+    "exitPolls": true,
+    "otherStateResults": {
+      "senate": true,
+      "electoral": true,
+      "house": true
+    },
+    "races": [
+      {
+        "id": 10,
+        "name": "FLORIDA",
+        "abbreviation": "FLO-P-",
+        "displayName": "Florida",
+        "shortDisplayName": "Fla. All",
+        "availableElectoralVotes": 30,
+        "exitPolls": true,
+        "competitive": false,
+        "candidates": [
+          {
+            "id": 895,
+            "displayName": "Jill Stein",
+            "shortDisplayName": "J. Stein",
+            "firstName": "Jill",
+            "lastName": "Stein",
+            "party": "others",
+            "major": false,
+            "incumbent": false,
+            "winner": false,
+            "runoff": false,
+            "participated": true,
+            "dropped": false,
+            "aggregate": false,
+            "order": 6,
+            "partyOrder": 6,
+            "statistics": {
+              "votes": {
+                "displayText": "Total Votes",
+                "displayValue": "0",
+                "doubleValue": 0,
+                "value": 0
+              },
+              "percent": {
+                "displayText": "Pct.",
+                "displayValue": "0%",
+                "doubleValue": 0,
+                "value": 0
+              },
+              "electoralVotes": {
+                "displayText": "Electoral Votes",
+                "displayValue": "0",
+                "doubleValue": 0,
+                "value": 0
+              }
+            }
+          },
+          {
+            "id": 8639,
+            "displayName": "Donald Trump",
+            "shortDisplayName": "D. Trump",
+            "firstName": "Donald",
+            "lastName": "Trump",
+            "party": "republicans",
+            "major": true,
+            "incumbent": false,
+            "winner": false,
+            "runoff": false,
+            "participated": true,
+            "dropped": false,
+            "aggregate": false,
+            "order": 2,
+            "partyOrder": 2,
+            "statistics": {
+              "votes": {
+                "displayText": "Total Votes",
+                "displayValue": "0",
+                "doubleValue": 0,
+                "value": 0
+              },
+              "percent": {
+                "displayText": "Pct.",
+                "displayValue": "0%",
+                "doubleValue": 0,
+                "value": 0
+              },
+              "electoralVotes": {
+                "displayText": "Electoral Votes",
+                "displayValue": "0",
+                "doubleValue": 0,
+                "value": 0
+              }
+            }
+          },
+          {
+            "id": 21303,
+            "displayName": "Write-ins",
+            "shortDisplayName": "Write-ins",
+            "firstName": "",
+            "lastName": "Write-ins",
+            "party": "others",
+            "major": false,
+            "incumbent": false,
+            "winner": false,
+            "runoff": false,
+            "participated": true,
+            "dropped": false,
+            "aggregate": true,
+            "order": 8,
+            "partyOrder": 8,
+            "statistics": {
+              "votes": {
+                "displayText": "Total Votes",
+                "displayValue": "0",
+                "doubleValue": 0,
+                "value": 0
+              },
+              "percent": {
+                "displayText": "Pct.",
+                "displayValue": "0%",
+                "doubleValue": 0,
+                "value": 0
+              },
+              "electoralVotes": {
+                "displayText": "Electoral Votes",
+                "displayValue": "0",
+                "doubleValue": 0,
+                "value": 0
+              }
+            }
+          },
+          {
+            "id": 61513,
+            "displayName": "Randall Terry",
+            "shortDisplayName": "R. Terry",
+            "firstName": "Randall",
+            "lastName": "Terry",
+            "party": "others",
+            "major": false,
+            "incumbent": false,
+            "winner": false,
+            "runoff": false,
+            "participated": true,
+            "dropped": false,
+            "aggregate": false,
+            "order": 7,
+            "partyOrder": 7,
+            "statistics": {
+              "votes": {
+                "displayText": "Total Votes",
+                "displayValue": "0",
+                "doubleValue": 0,
+                "value": 0
+              },
+              "percent": {
+                "displayText": "Pct.",
+                "displayValue": "0%",
+                "doubleValue": 0,
+                "value": 0
+              },
+              "electoralVotes": {
+                "displayText": "Electoral Votes",
+                "displayValue": "0",
+                "doubleValue": 0,
+                "value": 0
+              }
+            }
+          },
+          {
+            "id": 64984,
+            "displayName": "Kamala Harris",
+            "shortDisplayName": "K. Harris",
+            "firstName": "Kamala",
+            "lastName": "Harris",
+            "party": "democrats",
+            "major": true,
+            "incumbent": false,
+            "winner": false,
+            "runoff": false,
+            "participated": true,
+            "dropped": false,
+            "aggregate": false,
+            "order": 1,
+            "partyOrder": 1,
+            "statistics": {
+              "votes": {
+                "displayText": "Total Votes",
+                "displayValue": "0",
+                "doubleValue": 0,
+                "value": 0
+              },
+              "percent": {
+                "displayText": "Pct.",
+                "displayValue": "0%",
+                "doubleValue": 0,
+                "value": 0
+              },
+              "electoralVotes": {
+                "displayText": "Electoral Votes",
+                "displayValue": "0",
+                "doubleValue": 0,
+                "value": 0
+              }
+            }
+          },
+          {
+            "id": 20076636,
+            "displayName": "Chase Oliver",
+            "shortDisplayName": "C. Oliver",
+            "firstName": "Chase",
+            "lastName": "Oliver",
+            "party": "others",
+            "major": false,
+            "incumbent": false,
+            "winner": false,
+            "runoff": false,
+            "participated": true,
+            "dropped": false,
+            "aggregate": false,
+            "order": 4,
+            "partyOrder": 4,
+            "statistics": {
+              "votes": {
+                "displayText": "Total Votes",
+                "displayValue": "0",
+                "doubleValue": 0,
+                "value": 0
+              },
+              "percent": {
+                "displayText": "Pct.",
+                "displayValue": "0%",
+                "doubleValue": 0,
+                "value": 0
+              },
+              "electoralVotes": {
+                "displayText": "Electoral Votes",
+                "displayValue": "0",
+                "doubleValue": 0,
+                "value": 0
+              }
+            }
+          },
+          {
+            "id": 20078288,
+            "displayName": "Claudia De la Cruz",
+            "shortDisplayName": "C. De la Cruz",
+            "firstName": "Claudia",
+            "lastName": "De la Cruz",
+            "party": "others",
+            "major": false,
+            "incumbent": false,
+            "winner": false,
+            "runoff": false,
+            "participated": true,
+            "dropped": false,
+            "aggregate": false,
+            "order": 3,
+            "partyOrder": 3,
+            "statistics": {
+              "votes": {
+                "displayText": "Total Votes",
+                "displayValue": "0",
+                "doubleValue": 0,
+                "value": 0
+              },
+              "percent": {
+                "displayText": "Pct.",
+                "displayValue": "0%",
+                "doubleValue": 0,
+                "value": 0
+              },
+              "electoralVotes": {
+                "displayText": "Electoral Votes",
+                "displayValue": "0",
+                "doubleValue": 0,
+                "value": 0
+              }
+            }
+          },
+          {
+            "id": 20078864,
+            "displayName": "Peter Sonski",
+            "shortDisplayName": "P. Sonski",
+            "firstName": "Peter",
+            "lastName": "Sonski",
+            "party": "others",
+            "major": false,
+            "incumbent": false,
+            "winner": false,
+            "runoff": false,
+            "participated": true,
+            "dropped": false,
+            "aggregate": false,
+            "order": 5,
+            "partyOrder": 5,
+            "statistics": {
+              "votes": {
+                "displayText": "Total Votes",
+                "displayValue": "0",
+                "doubleValue": 0,
+                "value": 0
+              },
+              "percent": {
+                "displayText": "Pct.",
+                "displayValue": "0%",
+                "doubleValue": 0,
+                "value": 0
+              },
+              "electoralVotes": {
+                "displayText": "Electoral Votes",
+                "displayValue": "0",
+                "doubleValue": 0,
+                "value": 0
+              }
+            }
+          }
+        ],
+        "counties": [
+          {
+            "fips": "12001",
+            "displayName": "Alachua County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 1,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          },
+          {
+            "fips": "12003",
+            "displayName": "Baker County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 2,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          },
+          {
+            "fips": "12005",
+            "displayName": "Bay County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 3,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          },
+          {
+            "fips": "12007",
+            "displayName": "Bradford County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 4,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          },
+          {
+            "fips": "12009",
+            "displayName": "Brevard County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 5,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          },
+          {
+            "fips": "12011",
+            "displayName": "Broward County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 6,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          },
+          {
+            "fips": "12013",
+            "displayName": "Calhoun County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 7,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          },
+          {
+            "fips": "12015",
+            "displayName": "Charlotte County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 8,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          },
+          {
+            "fips": "12017",
+            "displayName": "Citrus County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 9,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          },
+          {
+            "fips": "12019",
+            "displayName": "Clay County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 10,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          },
+          {
+            "fips": "12021",
+            "displayName": "Collier County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 11,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          },
+          {
+            "fips": "12023",
+            "displayName": "Columbia County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 12,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          },
+          {
+            "fips": "12027",
+            "displayName": "DeSoto County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 13,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          },
+          {
+            "fips": "12029",
+            "displayName": "Dixie County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 14,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          },
+          {
+            "fips": "12031",
+            "displayName": "Duval County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 15,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          },
+          {
+            "fips": "12033",
+            "displayName": "Escambia County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 16,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          },
+          {
+            "fips": "12035",
+            "displayName": "Flagler County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 17,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          },
+          {
+            "fips": "12037",
+            "displayName": "Franklin County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 18,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          },
+          {
+            "fips": "12039",
+            "displayName": "Gadsden County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 19,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          },
+          {
+            "fips": "12041",
+            "displayName": "Gilchrist County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 20,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          },
+          {
+            "fips": "12043",
+            "displayName": "Glades County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 21,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          },
+          {
+            "fips": "12045",
+            "displayName": "Gulf County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 22,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          },
+          {
+            "fips": "12047",
+            "displayName": "Hamilton County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 23,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          },
+          {
+            "fips": "12049",
+            "displayName": "Hardee County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 24,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          },
+          {
+            "fips": "12051",
+            "displayName": "Hendry County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 25,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          },
+          {
+            "fips": "12053",
+            "displayName": "Hernando County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 26,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          },
+          {
+            "fips": "12055",
+            "displayName": "Highlands County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 27,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          },
+          {
+            "fips": "12057",
+            "displayName": "Hillsborough County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 28,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          },
+          {
+            "fips": "12059",
+            "displayName": "Holmes County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 29,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          },
+          {
+            "fips": "12061",
+            "displayName": "Indian River County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 30,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          },
+          {
+            "fips": "12063",
+            "displayName": "Jackson County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 31,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          },
+          {
+            "fips": "12065",
+            "displayName": "Jefferson County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 32,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          },
+          {
+            "fips": "12067",
+            "displayName": "Lafayette County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 33,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          },
+          {
+            "fips": "12069",
+            "displayName": "Lake County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 34,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          },
+          {
+            "fips": "12071",
+            "displayName": "Lee County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 35,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          },
+          {
+            "fips": "12073",
+            "displayName": "Leon County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 36,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          },
+          {
+            "fips": "12075",
+            "displayName": "Levy County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 37,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          },
+          {
+            "fips": "12077",
+            "displayName": "Liberty County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 38,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          },
+          {
+            "fips": "12079",
+            "displayName": "Madison County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 39,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          },
+          {
+            "fips": "12081",
+            "displayName": "Manatee County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 40,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          },
+          {
+            "fips": "12083",
+            "displayName": "Marion County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 41,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          },
+          {
+            "fips": "12085",
+            "displayName": "Martin County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 42,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          },
+          {
+            "fips": "12086",
+            "displayName": "Miami-Dade County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 43,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          },
+          {
+            "fips": "12087",
+            "displayName": "Monroe County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 44,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          },
+          {
+            "fips": "12089",
+            "displayName": "Nassau County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 45,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          },
+          {
+            "fips": "12091",
+            "displayName": "Okaloosa County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 46,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          },
+          {
+            "fips": "12093",
+            "displayName": "Okeechobee County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 47,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          },
+          {
+            "fips": "12095",
+            "displayName": "Orange County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 48,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          },
+          {
+            "fips": "12097",
+            "displayName": "Osceola County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 49,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          },
+          {
+            "fips": "12099",
+            "displayName": "Palm Beach County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 50,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          },
+          {
+            "fips": "12101",
+            "displayName": "Pasco County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 51,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          },
+          {
+            "fips": "12103",
+            "displayName": "Pinellas County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 52,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          },
+          {
+            "fips": "12105",
+            "displayName": "Polk County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 53,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          },
+          {
+            "fips": "12107",
+            "displayName": "Putnam County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 54,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          },
+          {
+            "fips": "12109",
+            "displayName": "St. Johns County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 58,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          },
+          {
+            "fips": "12111",
+            "displayName": "St. Lucie County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 59,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          },
+          {
+            "fips": "12113",
+            "displayName": "Santa Rosa County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 55,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          },
+          {
+            "fips": "12115",
+            "displayName": "Sarasota County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 56,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          },
+          {
+            "fips": "12117",
+            "displayName": "Seminole County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 57,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          },
+          {
+            "fips": "12119",
+            "displayName": "Sumter County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 60,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          },
+          {
+            "fips": "12121",
+            "displayName": "Suwannee County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 61,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          },
+          {
+            "fips": "12123",
+            "displayName": "Taylor County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 62,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          },
+          {
+            "fips": "12125",
+            "displayName": "Union County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 63,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          },
+          {
+            "fips": "12127",
+            "displayName": "Volusia County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 64,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          },
+          {
+            "fips": "12129",
+            "displayName": "Wakulla County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 65,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          },
+          {
+            "fips": "12131",
+            "displayName": "Walton County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 66,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          },
+          {
+            "fips": "12133",
+            "displayName": "Washington County",
+            "candidates": [
+              {
+                "id": 8639,
+                "displayName": "Donald Trump",
+                "shortDisplayName": "D. Trump",
+                "firstName": "Donald",
+                "lastName": "Trump",
+                "party": "republicans",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 2,
+                "partyOrder": 2,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              },
+              {
+                "id": 64984,
+                "displayName": "Kamala Harris",
+                "shortDisplayName": "K. Harris",
+                "firstName": "Kamala",
+                "lastName": "Harris",
+                "party": "democrats",
+                "major": true,
+                "incumbent": false,
+                "winner": false,
+                "runoff": false,
+                "participated": true,
+                "dropped": false,
+                "aggregate": false,
+                "order": 1,
+                "partyOrder": 1,
+                "statistics": {
+                  "votes": {
+                    "displayText": "Total Votes",
+                    "displayValue": "0",
+                    "doubleValue": 0,
+                    "value": 0
+                  },
+                  "percent": {
+                    "displayText": "Pct.",
+                    "displayValue": "0%",
+                    "doubleValue": 0,
+                    "value": 0
+                  }
+                }
+              }
+            ],
+            "order": 67,
+            "reporting": {
+              "threshold": 75,
+              "displayText": "in",
+              "displayValue": "0%",
+              "doubleValue": 0,
+              "value": 0
+            },
+            "lastUpdated": {
+              "value": "2024-10-25T04:00:00Z",
+              "displayValue": "October 25, 12:00:00AM ET"
+            }
+          }
+        ],
+        "lastUpdated": {
+          "value": "2024-10-21T19:11:05.183Z",
+          "displayValue": "October 21, 3:11:05PM ET"
+        },
+        "pollClosingDate": {
+          "value": "2024-11-06T01:00:00Z",
+          "displayValue": "8 PM ET",
+          "displayText": "Polls close at 8 PM ET"
+        },
+        "status": {
+          "type": "pre",
+          "value": "SCHEDULED"
+        },
+        "reporting": {
+          "threshold": 75,
+          "displayText": "in",
+          "displayValue": "0%",
+          "doubleValue": 0,
+          "value": 0
+        },
+        "absenteeReporting": {
+          "displayText": "Total Estimated To Be Early/Absentee:",
+          "displayValue": "0%",
+          "doubleValue": 0,
+          "value": 0
+        },
+        "incumbent": {
+          "party": "democrats"
+        },
+        "party": "all"
+      }
+    ]
+  }
