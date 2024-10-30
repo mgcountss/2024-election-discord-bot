@@ -1,7 +1,15 @@
 import fs from 'fs';
 import fetch from 'node-fetch';
+import dotenv from 'dotenv';
+dotenv.config();
 
-const blacklist = ['Write-ins'];
+if (!fs.existsSync('./backups')) {
+    fs.mkdirSync('./backups');
+}
+
+setInterval(() => {
+    fs.copyFileSync('states.json', `./backups/states_${new Date().toISOString().split('T')[0]}.json`);
+}, 300000);
 
 let states = JSON.parse(fs.readFileSync('states.json', 'utf8'));
 
@@ -407,8 +415,9 @@ function sendMSG(msg, sendOnly, type) {
 }
 
 setInterval(() => {
+    console.log(process.env.discord)
     if (discordQueue.length > 0) {
-        fetch('https://discord.com/api/webhooks/1301196071686635551/CuXZ_OnZCl3f9t-xJUsLwlld7SRsEbgmUZrT7vwGnkQ67jkZn_uiWDvGkWpOYllPl4ks', {
+        fetch(process.env.DISCORD, {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json'
