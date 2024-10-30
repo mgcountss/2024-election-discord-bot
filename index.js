@@ -6,8 +6,8 @@ const blacklist = ['Write-ins'];
 let states = JSON.parse(fs.readFileSync('states.json', 'utf8'));
 
 const convertToCst = (time) => {
-    const date = new Date(time);
-    return date.toLocaleString('en-US', { timeZone: 'America/Chicago' });
+    let date = new Date(time).toLocaleString('en-US', { timeZone: 'America/Chicago' });
+    return date.split(':').slice(0, 2).join(':');
 };
 
 setInterval(async () => {
@@ -65,35 +65,55 @@ async function generalElectionUpdate() {
             if (lastUpdateData[candidate.party]) {
                 if ((candidate.winner && !previousCandidate?.winner && !updated)) {
                     updated = true;
-                    let msg = `✅ ${states[currentStateData.abbreviation].name.toUpperCase()} PROJECTED WINNER: ${candidate.name} (${candidate.party[0].toUpperCase()})` + '\n';
-                    msg += `\nVotes Received: ${candidate.stats.votes.toLocaleString()}`;
-                    let secondPlaceCandidate = sortedCandidates[1];
-                    if (secondPlaceCandidate) {
-                        msg += `\n\nRunner Up: ${secondPlaceCandidate.name} (${secondPlaceCandidate.party[0].toUpperCase()}) - ${secondPlaceCandidate.stats.votes.toLocaleString()} votes (${(candidate.stats.votes - secondPlaceCandidate.stats.votes).toLocaleString()} votes behind)`;
-                    } else {
-                        msg += `\nNo second place candidate`;
+                    if (candidate.name === 'Write-ins') { candidate.name = 'Others'; }
+                    let msg = {
+                        "state": currentStateData.name,
+                        "district": null,
+                        "type": "GENERAL",
+                        "msgType": "projection",
+                        "availableElectoralVotes": ogCurrentStateData.availableElectoralVotes,
+                        "main": `${candidate.name} (${candidate.party[0].toUpperCase()})`,
+                        "winnerParty": candidate.party[0].toUpperCase(),
+                        "submain": [{
+                            "title": "Votes Received:",
+                            "description": `${candidate.stats.votes.toLocaleString()} votes (${candidate.stats.percent})`
+                        }, {
+                            "title": "Runner Up: ",
+                            "description": `${sortedCandidates[1]?.name || 'N/A'} (${sortedCandidates[1]?.party[0].toUpperCase() || 'N/A'}) - ${sortedCandidates[1]?.stats.votes.toLocaleString() || 'N/A'} votes (${sortedCandidates[1]?.stats.percent || 'N/A'}) - [${candidate.stats.votes - (lastUpdateData[sortedCandidates[1]?.party]?.stats.votes || 0)} behind]`
+                        }],
+                        "footer": {
+                            "text": `Polls closed at ${convertToCst(currentStateData.pollClosingDate.value).toString().split(', ')[1]} (CST), ~${currentStateData.reporting.displayValue} votes in.`
+                        }
                     }
-                    msg += `\n\n${states[currentStateData.abbreviation].name.toUpperCase()} Electoral Votes: ${candidate.stats.electoralVotes.toLocaleString()}`;
-                    sendMSG(msg);
+                    sendMSG(msg, false, 'general');
                 } else {
-                    if (!updated && (lastUpdateData[candidate.party].stats.votes !== candidate.stats.votes)) {
-                        let msg = `${states[currentStateData.abbreviation].name.toUpperCase()} [${states[currentStateData.abbreviation].availableElectoralVotes}] GENERAL ELECTION UPDATE:\n`;
-                        for (let topCandidate of sortedCandidates) {
-                            if (!blacklist.includes(topCandidate.name)) {
-                                msg += `[${topCandidate.stats.percent}] (${topCandidate.party[0].toUpperCase()}) ${topCandidate.name} - ${topCandidate.stats.votes.toLocaleString()} votes (+${(topCandidate.stats.votes - (lastUpdateData[topCandidate.party] ? lastUpdateData[topCandidate.party].stats.votes : 0)).toLocaleString()})` + '\n';
+                    if ((!updated && (lastUpdateData[candidate.party].stats.votes !== candidate.stats.votes))) {
+                        updated = true;
+                        if (sortedCandidates[0]?.name === 'Write-ins') { sortedCandidates[0].name = 'Others'; }
+                        if (sortedCandidates[1]?.name === 'Write-ins') { sortedCandidates[1].name = 'Others'; }
+                        if (sortedCandidates[2]?.name === 'Write-ins') { sortedCandidates[2].name = 'Others'; }
+                        let msg = {
+                            "state": currentStateData.name,
+                            "district": null,
+                            "type": "GENERAL",
+                            "msgType": "update",
+                            "availableElectoralVotes": ogCurrentStateData.availableElectoralVotes,
+                            "winnerParty": candidate.party[0].toUpperCase(),
+                            "submain": [{
+                                "title": `${sortedCandidates[0]?.name || 'N/A'} (${sortedCandidates[0]?.party[0].toUpperCase() || 'N/A'})`,
+                                "description": `${sortedCandidates[0]?.stats.votes.toLocaleString() || 'N/A'} votes (${sortedCandidates[0]?.stats.percent || 'N/A'}) - [${candidate.stats.votes - (lastUpdateData[sortedCandidates[0]?.party]?.stats.votes || 0)} behind]`
+                            }, {
+                                "title": `${sortedCandidates[1]?.name || 'N/A'} (${sortedCandidates[1]?.party[0].toUpperCase() || 'N/A'})`,
+                                "description": `${sortedCandidates[1]?.stats.votes.toLocaleString() || 'N/A'} votes (${sortedCandidates[1]?.stats.percent || 'N/A'}) - [${candidate.stats.votes - (lastUpdateData[sortedCandidates[1]?.party]?.stats.votes || 0)} behind]`
+                            }, {
+                                "title": `${sortedCandidates[2]?.name || 'N/A'} (${sortedCandidates[2]?.party[0].toUpperCase() || 'N/A'})`,
+                                "description": `${sortedCandidates[2]?.stats.votes.toLocaleString() || 'N/A'} votes (${sortedCandidates[2]?.stats.percent || 'N/A'}) - [${candidate.stats.votes - (lastUpdateData[sortedCandidates[2]?.party]?.stats.votes || 0)} behind]`
+                            }],
+                            "footer": {
+                                "text": `Polls closed at ${convertToCst(currentStateData.pollClosingDate.value).toString().split(', ')[1]} (CST), ~${currentStateData.reporting.displayValue} votes in.`
                             }
                         }
-                        try {
-                            let pollsClosed = currentStateData.pollClosingDate.value;
-                            if (new Date(pollsClosed) < new Date()) {
-                                msg += `\nPolls closed at ${convertToCst(pollsClosed).toString().split(', ')[1]} (CST), ~${currentStateData.reporting.displayValue} votes in.`;
-                            } else {
-                                msg += `\nPolls close at ${convertToCst(pollsClosed).toString().split(', ')[1]} (CST), ~${currentStateData.reporting.displayValue} votes in.`;
-                            }
-                            msg += `\nPrevious Update: ${convertToCst(ogCurrentStateData.lastUpdated).toString().split(', ')[1]} (CST)`;
-                        } catch (error) { }
-                        updated = true;
-                        sendMSG(msg)
+                        sendMSG(msg, false, 'general');
                     }
                 }
             }
@@ -109,7 +129,6 @@ async function houseElectionUpdate() {
     for (let q = 0; q < currentHouseData.states.length; q++) {
         //console.log(`Current state (House): ${currentHouseData.states[q].abbreviation}`);
         const currentStateData = currentHouseData.states[q];
-        const ogCurrentStateData = states[`${currentStateData.abbreviation}`];
         let candidates = {};
         if (currentStateData.congressionalDistricts) {
             for (let e = 0; e < currentStateData.congressionalDistricts.length; e++) {
@@ -140,35 +159,53 @@ async function houseElectionUpdate() {
                 for (let candidate of sortedCandidates) {
                     if (lastUpdateData[candidate.party]) {
                         if ((candidate.winner && !previousCandidate?.winner && !updated)) {
+                            if (candidate.name === 'Write-ins') { candidate.name = 'Others'; }
                             updated = true;
-                            let msg = `✅ ${states[currentStateData.abbreviation].name.toUpperCase()} PROJECTED WINNER: ${candidate.name} (${candidate.party[0].toUpperCase()})` + '\n';
-                            msg += `\nVotes Received: ${candidate.stats.votes.toLocaleString()}`;
-                            let secondPlaceCandidate = sortedCandidates[1];
-                            if (secondPlaceCandidate) {
-                                msg += `\n\nRunner Up: ${secondPlaceCandidate.name} (${secondPlaceCandidate.party[0].toUpperCase()}) - ${secondPlaceCandidate.stats.votes.toLocaleString()} votes (${(candidate.stats.votes - secondPlaceCandidate.stats.votes).toLocaleString()} votes behind)`;
-                            } else {
-                                msg += `\nNo second place candidate`;
+                            let msg = {
+                                "state": currentStateData.abbreviation,
+                                "district": currentDistrictData.displayName,
+                                "type": "HOUSE",
+                                "msgType": "projection",
+                                "main": `${candidate.name} (${candidate.party[0].toUpperCase()})`,
+                                "winnerParty": candidate.party[0].toUpperCase(),
+                                "submain": [{
+                                    "title": "Votes Received:",
+                                    "description": `${candidate.stats.votes.toLocaleString()} votes (${candidate.stats.percent})`
+                                }, {
+                                    "title": "Runner Up: ",
+                                    "description": `${sortedCandidates[1]?.name || 'N/A'} (${sortedCandidates[1]?.party[0].toUpperCase() || 'N/A'}) - ${sortedCandidates[1]?.stats.votes.toLocaleString() || 'N/A'} votes (${sortedCandidates[1]?.stats.percent || 'N/A'}) - [${candidate.stats.votes - (lastUpdateData[sortedCandidates[1]?.party]?.stats.votes || 0)} behind]`
+                                }],
+                                "footer": {
+                                    "text": `Polls closed at ${convertToCst(currentStateData.pollClosingDate.value).toString().split(', ')[1]} (CST), ~${currentDistrictData.reporting.displayValue} votes in.`
+                                }
                             }
-                            sendMSG(msg);
+                            sendMSG(msg, true, 'house');
                         } else {
-                            if (!updated && (lastUpdateData[candidate.party].stats.votes !== candidate.stats.votes)) {
-                                let msg = `${states[currentStateData.abbreviation].name.toUpperCase()} [HOUSE] UPDATE:\n`;
-                                for (let topCandidate of sortedCandidates) {
-                                    if (!blacklist.includes(topCandidate.name)) {
-                                        msg += `[${topCandidate.stats.percent}] (${topCandidate.party[0].toUpperCase()}) ${topCandidate.name} - ${topCandidate.stats.votes.toLocaleString()} votes (+${(topCandidate.stats.votes - (lastUpdateData[topCandidate.party] ? lastUpdateData[topCandidate.party].stats.votes : 0)).toLocaleString()})` + '\n';
+                            if ((!updated && (lastUpdateData[candidate.party].stats.votes !== candidate.stats.votes))) {
+                                updated = true;
+                                if (sortedCandidates[0]?.name === 'Write-ins') { sortedCandidates[0].name = 'Others'; }
+                                if (sortedCandidates[1]?.name === 'Write-ins') { sortedCandidates[1].name = 'Others'; }
+                                if (sortedCandidates[2]?.name === 'Write-ins') { sortedCandidates[2].name = 'Others'; }
+                                let msg = {
+                                    "state": currentStateData.abbreviation,
+                                    "district": currentDistrictData.displayName,
+                                    "type": "HOUSE",
+                                    "msgType": "update",
+                                    "submain": [{
+                                        "title": `${sortedCandidates[0]?.name || 'N/A'} (${sortedCandidates[0]?.party[0].toUpperCase() || 'N/A'})`,
+                                        "description": `${sortedCandidates[0]?.stats.votes.toLocaleString() || 'N/A'} votes (${sortedCandidates[0]?.stats.percent || 'N/A'}) - [${candidate.stats.votes - (lastUpdateData[sortedCandidates[0]?.party]?.stats.votes || 0)} behind]`
+                                    }, {
+                                        "title": `${sortedCandidates[1]?.name || 'N/A'} (${sortedCandidates[1]?.party[0].toUpperCase() || 'N/A'})`,
+                                        "description": `${sortedCandidates[1]?.stats.votes.toLocaleString() || 'N/A'} votes (${sortedCandidates[1]?.stats.percent || 'N/A'}) - [${candidate.stats.votes - (lastUpdateData[sortedCandidates[1]?.party]?.stats.votes || 0)} behind]`
+                                    }, {
+                                        "title": `${sortedCandidates[2]?.name || 'N/A'} (${sortedCandidates[2]?.party[0].toUpperCase() || 'N/A'})`,
+                                        "description": `${sortedCandidates[2]?.stats.votes.toLocaleString() || 'N/A'} votes (${sortedCandidates[2]?.stats.percent || 'N/A'}) - [${candidate.stats.votes - (lastUpdateData[sortedCandidates[2]?.party]?.stats.votes || 0)} behind]`
+                                    }],
+                                    "footer": {
+                                        "text": `Polls closed at ${convertToCst(currentStateData.pollClosingDate.value).toString().split(', ')[1]} (CST), ~${currentDistrictData.reporting.displayValue} votes in.`
                                     }
                                 }
-                                try {
-                                    let pollsClosed = currentStateData.pollClosingDate.value;
-                                    if (new Date(pollsClosed) < new Date()) {
-                                        msg += `\nPolls closed at ${convertToCst(pollsClosed).toString().split(', ')[1]} (CST), ~${currentStateData.reporting.displayValue} votes in.`;
-                                    } else {
-                                        msg += `\nPolls close at ${convertToCst(pollsClosed).toString().split(', ')[1]} (CST), ~${currentStateData.reporting.displayValue} votes in.`;
-                                    }
-                                    msg += `\nPrevious Update: ${convertToCst(ogCurrentStateData.lastUpdated).toString().split(', ')[1]} (CST)`;
-                                } catch (error) { }
-                                updated = true;
-                                sendMSG(msg);
+                                sendMSG(msg, true, 'house');
                             }
                         }
                     }
@@ -185,7 +222,6 @@ async function senateElectionUpdate() {
     for (let q = 0; q < currentSenateData.states.length; q++) {
         //console.log(`Current state (Senate): ${currentSenateData.states[q].abbreviation}`);
         const currentStateData = currentSenateData.states[q];
-        const ogCurrentStateData = states[`${currentStateData.abbreviation}`];
         let candidates = {};
         if (currentStateData.candidates) {
             for (let r = 0; r < currentStateData.candidates.length; r++) {
@@ -212,34 +248,53 @@ async function senateElectionUpdate() {
                 if (lastUpdateData[candidate.party]) {
                     if ((candidate.winner && !previousCandidate?.winner && !updated)) {
                         updated = true;
-                        let msg = `✅ ${states[currentStateData.abbreviation].name.toUpperCase()} PROJECTED WINNER: ${candidate.name} (${candidate.party[0].toUpperCase()})` + '\n';
-                        msg += `\nVotes Received: ${candidate.stats.votes.toLocaleString()}`;
-                        let secondPlaceCandidate = sortedCandidates[1];
-                        if (secondPlaceCandidate) {
-                            msg += `\n\nRunner Up: ${secondPlaceCandidate.name} (${secondPlaceCandidate.party[0].toUpperCase()}) - ${secondPlaceCandidate.stats.votes.toLocaleString()} votes (${(candidate.stats.votes - secondPlaceCandidate.stats.votes).toLocaleString()} votes behind)`;
-                        } else {
-                            msg += `\nNo second place candidate`;
+                        if (candidate.name === 'Write-ins') { candidate.name = 'Others'; }
+                        let msg = {
+                            "state": currentStateData.abbreviation,
+                            "district": null,
+                            "type": "SENATE",
+                            "msgType": "projection",
+                            "main": `${candidate.name} (${candidate.party[0].toUpperCase()})`,
+                            "winnerParty": candidate.party[0].toUpperCase(),
+                            "submain": [{
+                                "title": "Votes Received:",
+                                "description": `${candidate.stats.votes.toLocaleString()} votes (${candidate.stats.percent})`
+                            }, {
+                                "title": "Runner Up: ",
+                                "description": `${sortedCandidates[1]?.name || 'N/A'} (${sortedCandidates[1]?.party[0].toUpperCase() || 'N/A'}) - ${sortedCandidates[1]?.stats.votes.toLocaleString() || 'N/A'} votes (${sortedCandidates[1]?.stats.percent || 'N/A'}) - [${candidate.stats.votes - (lastUpdateData[sortedCandidates[1]?.party]?.stats.votes || 0)} behind]`
+                            }],
+                            "footer": {
+                                "text": `Polls closed at ${convertToCst(currentStateData.pollClosingDate.value).toString().split(', ')[1]} (CST), ~${currentStateData.reporting.displayValue} votes in.`
+                            }
                         }
-                        sendMSG(msg);
+                        sendMSG(msg, true, 'senate');
                     } else {
-                        if (!updated && (lastUpdateData[candidate.party].stats.votes !== candidate.stats.votes)) {
-                            let msg = `${states[currentStateData.abbreviation].name.toUpperCase()} [SENATE] UPDATE:\n`;
-                            for (let topCandidate of sortedCandidates) {
-                                if (!blacklist.includes(topCandidate.name)) {
-                                    msg += `[${topCandidate.stats.percent}] (${topCandidate.party[0].toUpperCase()}) ${topCandidate.name} - ${topCandidate.stats.votes.toLocaleString()} votes (+${(topCandidate.stats.votes - (lastUpdateData[topCandidate.party] ? lastUpdateData[topCandidate.party].stats.votes : 0)).toLocaleString()})` + '\n';
+                        if ((!updated && (lastUpdateData[candidate.party].stats.votes !== candidate.stats.votes))) {
+                            updated = true;
+                            if (sortedCandidates[0]?.name === 'Write-ins') { sortedCandidates[0].name = 'Others'; }
+                            if (sortedCandidates[1]?.name === 'Write-ins') { sortedCandidates[1].name = 'Others'; }
+                            if (sortedCandidates[2]?.name === 'Write-ins') { sortedCandidates[2].name = 'Others'; }
+
+                            let msg = {
+                                "state": currentStateData.abbreviation,
+                                "district": null,
+                                "type": "SENATE",
+                                "msgType": "update",
+                                "submain": [{
+                                    "title": `${sortedCandidates[0]?.name || 'N/A'} (${sortedCandidates[0]?.party[0].toUpperCase() || 'N/A'})`,
+                                    "description": `${sortedCandidates[0]?.stats.votes.toLocaleString() || 'N/A'} votes (${sortedCandidates[0]?.stats.percent || 'N/A'}) - [${candidate.stats.votes - (lastUpdateData[sortedCandidates[0]?.party]?.stats.votes || 0)} behind]`
+                                }, {
+                                    "title": `${sortedCandidates[1]?.name || 'N/A'} (${sortedCandidates[1]?.party[0].toUpperCase() || 'N/A'})`,
+                                    "description": `${sortedCandidates[1]?.stats.votes.toLocaleString() || 'N/A'} votes (${sortedCandidates[1]?.stats.percent || 'N/A'}) - [${candidate.stats.votes - (lastUpdateData[sortedCandidates[1]?.party]?.stats.votes || 0)} behind]`
+                                }, {
+                                    "title": `${sortedCandidates[2]?.name || 'N/A'} (${sortedCandidates[2]?.party[0].toUpperCase() || 'N/A'})`,
+                                    "description": `${sortedCandidates[2]?.stats.votes.toLocaleString() || 'N/A'} votes (${sortedCandidates[2]?.stats.percent || 'N/A'}) - [${candidate.stats.votes - (lastUpdateData[sortedCandidates[2]?.party]?.stats.votes || 0)} behind]`
+                                }],
+                                "footer": {
+                                    "text": `Polls closed at ${convertToCst(currentStateData.pollClosingDate.value).toString().split(', ')[1]} (CST), ~${currentStateData.reporting.displayValue} votes in.`
                                 }
                             }
-                            try {
-                                let pollsClosed = currentStateData.pollClosingDate.value;
-                                if (new Date(pollsClosed) < new Date()) {
-                                    msg += `\nPolls closed at ${convertToCst(pollsClosed).toString().split(', ')[1]} (CST), ~${currentStateData.reporting.displayValue} votes in.`;
-                                } else {
-                                    msg += `\nPolls close at ${convertToCst(pollsClosed).toString().split(', ')[1]} (CST), ~${currentStateData.reporting.displayValue} votes in.`;
-                                }
-                                msg += `\nPrevious Update: ${convertToCst(ogCurrentStateData.lastUpdated).toString().split(', ')[1]} (CST)`;
-                            } catch (error) { }
-                            updated = true;
-                            sendMSG(msg);
+                            sendMSG(msg, true, 'senate');
                         }
                     }
                 }
@@ -258,6 +313,108 @@ setInterval(generalElectionUpdate, 60000);
 setInterval(senateElectionUpdate, 60000);
 setInterval(houseElectionUpdate, 60000);
 
-function sendMSG(msg) {
-    console.log(msg, msg.length);
+let discordQueue = [];
+
+//let sentMsg = false;
+function sendMSG(msg, sendOnly, type) {
+    //console.log(msg, msg.length);
+
+    if (!sendOnly) {
+
+    }
+
+    //if (sentMsg) { return; }
+    //sentMsg = true;
+    const msgToEmbed = function (msg) {
+        if (msg.msgType === 'projection') {
+            let title = "";
+            if (msg.type === 'GENERAL') {
+                title = `${msg.state.toUpperCase()} GENERAL ELECTION PROJECTION [${msg.availableElectoralVotes} Votes]`;
+            } else if (msg.type === 'SENATE') {
+                title = `${msg.state.toUpperCase()} [SENATE] PROJECTION`;
+            } else if (msg.type === 'HOUSE') {
+                title = `${msg.state.toUpperCase()} [HOUSE] ${msg.district.toUpperCase()} PROJECTION`;
+            }
+            let msgUpdated = {
+                "content": null,
+                "embeds": [
+                    {
+                        "title": title,
+                        "color": 5814783,
+                        "fields": [
+                            {
+                                "name": "✅ " + msg.main,
+                                "value": msg.submain[0].description
+                            },
+                            {
+                                "name": msg.submain[1].title,
+                                "value": msg.submain[1].description
+                            }
+                        ],
+                        "footer": {
+                            "text": msg.footer.text
+                        }
+                    }
+                ],
+                "attachments": []
+            }
+            if (msg.winnerParty) {
+                msgUpdated.embeds[0].title = "📣" + " " + msgUpdated.embeds[0].title + " " + ((msg.winnerParty === 'R') ? '🔴' : (msg.winnerParty === 'D') ? '🔵' : '⚪')
+            }
+            return msgUpdated;
+        } else if (msg.msgType === 'update') {
+            let title = "";
+            if (msg.type === 'GENERAL') {
+                title = `${msg.state.toUpperCase()} GENERAL ELECTION UPDATE [${msg.availableElectoralVotes} Votes]`;
+            } else if (msg.type === 'SENATE') {
+                title = `${msg.state.toUpperCase()} [SENATE] UPDATE`;
+            } else if (msg.type === 'HOUSE') {
+                title = `${msg.state.toUpperCase()} [HOUSE] ${msg.district.toUpperCase()} UPDATE`;
+            }
+            let msgUpdated = {
+                "content": null,
+                "embeds": [
+                    {
+                        "title": title,
+                        "color": 5814783,
+                        "fields": [
+                            {
+                                "name": msg.submain[0].title,
+                                "value": msg.submain[0].description
+                            },
+                            {
+                                "name": msg.submain[1].title,
+                                "value": msg.submain[1].description
+                            },
+                            {
+                                "name": msg.submain[2].title,
+                                "value": msg.submain[2].description
+                            }
+                        ],
+                        "footer": {
+                            "text": msg.footer.text
+                        }
+                    }
+                ],
+                "attachments": []
+            }
+            msgUpdated.embeds[0].title = "🚨 " + msgUpdated.embeds[0].title
+            return msgUpdated;
+        }
+    }
+    msg = msgToEmbed(msg);
+    discordQueue.push(msg);
 }
+
+setInterval(() => {
+    if (discordQueue.length > 0) {
+        fetch('https://discord.com/api/webhooks/1301196071686635551/CuXZ_OnZCl3f9t-xJUsLwlld7SRsEbgmUZrT7vwGnkQ67jkZn_uiWDvGkWpOYllPl4ks', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify(discordQueue[0])
+        })//.then(res => res.json()).then(data => console.log(data)).catch(err => console.log(err));
+        discordQueue.shift();
+    }
+}, 500);
